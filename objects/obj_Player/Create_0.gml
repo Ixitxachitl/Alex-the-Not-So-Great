@@ -68,11 +68,11 @@ if (!audio_is_playing(l405E614E_0))
 	/// @DnDAction : YoYo Games.Audio.Play_Audio
 	/// @DnDVersion : 1
 	/// @DnDHash : 3DC301AB
-	/// @DnDDisabled : 1
 	/// @DnDParent : 405E614E
 	/// @DnDArgument : "soundid" "snd_music_1"
 	/// @DnDArgument : "loop" "1"
 	/// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
+	audio_play_sound(snd_music_1, 0, 1);
 }
 
 /// @DnDAction : YoYo Games.Common.Else
