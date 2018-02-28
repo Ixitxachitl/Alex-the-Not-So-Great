@@ -34,14 +34,6 @@ camera_def = view_get_camera(0);
 /// @DnDArgument : "arg" "camera_def"
 camera_width = camera_get_view_width(camera_def);
 
-/// @DnDAction : YoYo Games.Common.Function_Call
-/// @DnDVersion : 1
-/// @DnDHash : 1104B569
-/// @DnDDisabled : 1
-/// @DnDArgument : "function" "camera_set_view_angle"
-/// @DnDArgument : "arg" "camera_def, -10"
-
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 45A18E2B
