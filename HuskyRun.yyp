@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "2d6ce7a9-0af3-4202-9d5c-43c16a3e391d",
+            "Value": {
+                "id": "a47da8ca-b295-4ab0-b66d-348bba5c94d9",
+                "resourcePath": "sprites\\spr_medusa\\spr_medusa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2e7e087b-cf41-45b3-99c1-bba414f8d2f8",
             "Value": {
                 "id": "fb3a0048-7d5a-464e-9d2a-9e3b4578c456",
