@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "6ba2cb85-6472-4ba1-82c7-2f737d77c31d",
+            "Value": {
+                "id": "88f8b562-950e-497d-81ae-115726e38730",
+                "resourcePath": "sprites\\spr_deathscreen\\spr_deathscreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74f0a567-b21d-42f9-82a5-87635542d657",
             "Value": {
                 "id": "b64355a2-ab9f-4b77-8f84-eae4f7fd162b",
@@ -335,11 +343,27 @@
             }
         },
         {
+            "Key": "b2d0ac02-f6f5-48ed-a00f-139f69c1e4f2",
+            "Value": {
+                "id": "6c5ab8fc-e725-4852-ba6b-887c16048a67",
+                "resourcePath": "rooms\\rm_dead\\rm_dead.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b9ba7a54-1bfe-4e5a-8216-71c7a8e150aa",
             "Value": {
                 "id": "e864b241-eef0-429b-823c-8974b316dde4",
                 "resourcePath": "sprites\\spr_gate\\spr_gate.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c100b7e0-5d03-4874-98e0-dffe3e13e963",
+            "Value": {
+                "id": "7508acc3-18d1-4a63-ad95-7d66b0645269",
+                "resourcePath": "objects\\obj_deathrespawn\\obj_deathrespawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
