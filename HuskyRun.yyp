@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "aa8bbbca-2675-47d6-b09a-8c826c96c13b",
+            "Value": {
+                "id": "93ba4c8f-fa0e-4a77-930b-67843b1f9dd8",
+                "resourcePath": "sprites\\spr_ball\\spr_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9ba7a54-1bfe-4e5a-8216-71c7a8e150aa",
             "Value": {
                 "id": "e864b241-eef0-429b-823c-8974b316dde4",
