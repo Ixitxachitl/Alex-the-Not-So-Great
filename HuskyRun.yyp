@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "7f47b968-4cac-4581-b501-5c29ab464b38",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "aa8bbbca-2675-47d6-b09a-8c826c96c13b",
             "Value": {
                 "id": "93ba4c8f-fa0e-4a77-930b-67843b1f9dd8",
@@ -428,6 +436,14 @@
                 "id": "5e4094e8-245c-49e0-a42c-4c076152ca5d",
                 "resourcePath": "sprites\\spr_player_shadow_fade_2\\spr_player_shadow_fade_2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "5f4e9b07-3236-465c-86b5-d1fee4bced27",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
