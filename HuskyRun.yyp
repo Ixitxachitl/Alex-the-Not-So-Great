@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "5c75ad55-c9bc-4c86-9638-941919ed88fc",
+            "Value": {
+                "id": "df5ab9b6-8b1f-4bbb-8184-58bd5278a671",
+                "resourcePath": "views\\5c75ad55-c9bc-4c86-9638-941919ed88fc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5d7dd24f-2754-4110-b09a-856815bb56e2",
             "Value": {
                 "id": "b153df0f-1994-4e67-82ad-5a65047d23b6",
@@ -300,6 +308,14 @@
                 "id": "77a141cc-956d-494b-a599-7a52fb9b7478",
                 "resourcePath": "sprites\\spr_3headdog\\spr_3headdog.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "01e46735-6a5d-447a-b646-d1f00d99f648",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -436,6 +452,14 @@
                 "id": "5e4094e8-245c-49e0-a42c-4c076152ca5d",
                 "resourcePath": "sprites\\spr_player_shadow_fade_2\\spr_player_shadow_fade_2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "0e5f13c6-1bbe-46eb-9117-58ce92f082d5",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
