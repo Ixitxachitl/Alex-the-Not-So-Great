@@ -1,8 +1,8 @@
 {
-    "id": "7ac22c1a-7fb3-4eaf-b354-1273a1395f55",
+    "id": "95e82efe-fa76-42b6-90b9-bfe06570e6bc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_crowd",
+    "name": "obj_fire",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "8062e6ac-319a-4747-8ef4-1c983f6a7127",
     "visible": true
 }
