@@ -207,10 +207,10 @@
             }
         },
         {
-            "Key": "68263b48-37ce-408b-98b6-d1aeea56bd01",
+            "Key": "6ba2cb85-6472-4ba1-82c7-2f737d77c31d",
             "Value": {
-                "id": "1970b203-3003-40ff-97ba-e7f943f3e308",
-                "resourcePath": "sprites\\spr_soul\\spr_soul.yy",
+                "id": "88f8b562-950e-497d-81ae-115726e38730",
+                "resourcePath": "sprites\\spr_deathscreen\\spr_deathscreen.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -252,14 +252,6 @@
                 "id": "1b21213e-503c-4d94-8ab3-62b1032ccf97",
                 "resourcePath": "objects\\obj_3headdog\\obj_3headdog.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8062e6ac-319a-4747-8ef4-1c983f6a7127",
-            "Value": {
-                "id": "f9466938-93b8-424d-92cc-a823d5a220b9",
-                "resourcePath": "sprites\\spr_fire\\spr_fire.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,11 +335,19 @@
             }
         },
         {
-            "Key": "ae296482-0d75-4641-999b-d238ca408d43",
+            "Key": "aa8bbbca-2675-47d6-b09a-8c826c96c13b",
             "Value": {
-                "id": "c2218c27-b895-4c66-bae5-f22527274bb1",
+                "id": "93ba4c8f-fa0e-4a77-930b-67843b1f9dd8",
                 "resourcePath": "sprites\\spr_ball\\spr_ball.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b2d0ac02-f6f5-48ed-a00f-139f69c1e4f2",
+            "Value": {
+                "id": "6c5ab8fc-e725-4852-ba6b-887c16048a67",
+                "resourcePath": "rooms\\rm_dead\\rm_dead.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -356,6 +356,14 @@
                 "id": "e864b241-eef0-429b-823c-8974b316dde4",
                 "resourcePath": "sprites\\spr_gate\\spr_gate.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c100b7e0-5d03-4874-98e0-dffe3e13e963",
+            "Value": {
+                "id": "7508acc3-18d1-4a63-ad95-7d66b0645269",
+                "resourcePath": "objects\\obj_deathrespawn\\obj_deathrespawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {

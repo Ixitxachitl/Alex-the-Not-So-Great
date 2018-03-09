@@ -1,10 +1,19 @@
 {
-    "id": "6b3143b9-339f-4f4f-8435-308b8ea71bba",
+    "id": "c100b7e0-5d03-4874-98e0-dffe3e13e963",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_crowd",
+    "name": "obj_deathrespawn",
     "eventList": [
-        
+        {
+            "id": "3f1b8889-3991-408f-ad0f-35f15947043f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 10,
+            "m_owner": "c100b7e0-5d03-4874-98e0-dffe3e13e963"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
