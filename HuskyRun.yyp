@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "2fcd0a04-21a2-4f65-8747-c78ded42664b",
+            "Value": {
+                "id": "fb0fc115-ae8b-46c4-a6a9-496130efdbc4",
+                "resourcePath": "sprites\\spr_deathscreen\\spr_deathscreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34771405-9693-47a5-9221-fd4c95725e21",
             "Value": {
                 "id": "dc9703f9-10f8-471d-94d3-de2c5d3b1bb8",
