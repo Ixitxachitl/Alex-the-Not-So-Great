@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "name": "fnt_free_pixel",
     "AntiAlias": 0,
-    "TTFName": "",
+    "TTFName": "${project_dir}\\fonts\\fnt_free_pixel\\FreePixel.ttf",
     "bold": false,
     "charset": 0,
     "first": 0,
@@ -1452,7 +1452,7 @@
         }
     ],
     "image": null,
-    "includeTTF": false,
+    "includeTTF": true,
     "italic": false,
     "kerningPairs": [
         
