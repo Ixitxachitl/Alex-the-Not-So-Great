@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "6b3143b9-339f-4f4f-8435-308b8ea71bba",
+            "Value": {
+                "id": "5f22b4fc-889b-4495-a3fd-3f6acc3ecd36",
+                "resourcePath": "objects\\obj_crowd\\obj_crowd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74f0a567-b21d-42f9-82a5-87635542d657",
             "Value": {
                 "id": "b64355a2-ab9f-4b77-8f84-eae4f7fd162b",
