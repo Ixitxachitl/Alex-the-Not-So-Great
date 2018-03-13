@@ -6,11 +6,13 @@
 /// @DnDArgument : "value" "196"
 if(phy_position_y > 196)
 {
-	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 2E6223F7
+	/// @DnDHash : 2F5D2261
 	/// @DnDParent : 0DA14857
-	room_restart();
+	/// @DnDArgument : "room" "rm_dead"
+	/// @DnDSaveInfo : "room" "b2d0ac02-f6f5-48ed-a00f-139f69c1e4f2"
+	room_goto(rm_dead);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
