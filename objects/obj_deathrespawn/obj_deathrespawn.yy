@@ -5,7 +5,7 @@
     "name": "obj_deathrespawn",
     "eventList": [
         {
-            "id": "6462aab0-f947-4ae8-afe0-ead47afa52c1",
+            "id": "3f1b8889-3991-408f-ad0f-35f15947043f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,

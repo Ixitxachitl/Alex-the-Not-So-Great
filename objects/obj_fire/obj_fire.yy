@@ -1,8 +1,8 @@
 {
-    "id": "7e7841cd-505d-4eee-beef-ca5ab789c130",
+    "id": "95e82efe-fa76-42b6-90b9-bfe06570e6bc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_3headdog",
+    "name": "obj_fire",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "8062e6ac-319a-4747-8ef4-1c983f6a7127",
     "visible": true
 }
