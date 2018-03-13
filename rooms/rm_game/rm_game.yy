@@ -932,7 +932,7 @@
         "mvc": "1.0",
         "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 256,
+        "PhysicsWorldGravityY": 200,
         "PhysicsWorldPixToMeters": 1,
         "inheritPhysicsSettings": false
     },
