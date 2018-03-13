@@ -1,19 +1,10 @@
 {
-    "id": "c100b7e0-5d03-4874-98e0-dffe3e13e963",
+    "id": "95e82efe-fa76-42b6-90b9-bfe06570e6bc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_deathrespawn",
+    "name": "obj_fire",
     "eventList": [
-        {
-            "id": "3f1b8889-3991-408f-ad0f-35f15947043f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 10,
-            "m_owner": "c100b7e0-5d03-4874-98e0-dffe3e13e963"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "8062e6ac-319a-4747-8ef4-1c983f6a7127",
     "visible": true
 }
