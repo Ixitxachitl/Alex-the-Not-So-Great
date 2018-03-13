@@ -51,10 +51,10 @@
     ],
     "tile_animation_speed": 15,
     "tile_count": 20,
-    "tileheight": 30,
+    "tileheight": 15,
     "tilehsep": 0,
     "tilevsep": 0,
-    "tilewidth": 30,
+    "tilewidth": 15,
     "tilexoff": 0,
     "tileyoff": 0
 }
