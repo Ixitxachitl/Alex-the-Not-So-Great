@@ -1,13 +1,12 @@
 {
-    "id": "7e7841cd-505d-4eee-beef-ca5ab789c130",
+    "id": "50ce1d8a-f0a0-4109-8724-124f90c58f85",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_3headdog",
+    "name": "obj_crowd",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -22,8 +21,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
     "solid": false,
-    "spriteId": "a8019d6b-63a0-4031-9087-6ce288563233",
+    "spriteId": "2a4f0ef9-c616-4472-b11d-f65be03d1fbf",
     "visible": true
 }
