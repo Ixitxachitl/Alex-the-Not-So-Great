@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "038bd069-74c6-4768-944d-34a18b443aca",
+            "Value": {
+                "id": "b3377144-613f-4d79-ba05-44d5bd8b12a8",
+                "resourcePath": "sprites\\spr_columntop\\spr_columntop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05d2c90c-f2b9-4c06-ae62-0e5e599bfde6",
             "Value": {
                 "id": "25d1e65c-3f3d-4070-80b1-e45246c4caea",
