@@ -18,9 +18,9 @@ show_debug_message(string("spawned gate"));
 /// @DnDHash : 6373CEFA
 /// @DnDArgument : "var" "next_gate"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "min" "50"
-/// @DnDArgument : "max" "100"
-next_gate = floor(random_range(50, 100 + 1));
+/// @DnDArgument : "min" "100"
+/// @DnDArgument : "max" "200"
+next_gate = floor(random_range(100, 200 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

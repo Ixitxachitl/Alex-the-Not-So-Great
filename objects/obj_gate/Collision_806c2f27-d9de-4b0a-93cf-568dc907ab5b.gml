@@ -8,11 +8,11 @@ phy_linear_velocity_x = 40;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1ECE126E
-/// @DnDApplyTo : other
-/// @DnDArgument : "expr" "- 10"
+/// @DnDApplyTo : 49b073bc-4cdf-46ce-a91a-2d07d3e144c1
+/// @DnDArgument : "expr" "- 10 - (50*obj_Player.move_speed)"
 /// @DnDArgument : "var" "phy_linear_velocity_x"
-with(other) {
-phy_linear_velocity_x = - 10;
+with(obj_Player) {
+phy_linear_velocity_x = - 10 - (50*obj_Player.move_speed);
 
 }
 

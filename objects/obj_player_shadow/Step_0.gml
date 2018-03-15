@@ -30,45 +30,107 @@ while ((ground_check == false)) {
 	var l2E4DD745_0 = instance_place(obj_Player.phy_position_x, ground_check_level, obj_ground_tile);
 	if (!(l2E4DD745_0 > 0))
 	{
-		/// @DnDAction : YoYo Games.Common.If_Variable
+		/// @DnDAction : YoYo Games.Collisions.If_Object_At
 		/// @DnDVersion : 1
-		/// @DnDHash : 479E9939
+		/// @DnDHash : 24D73952
 		/// @DnDParent : 2E4DD745
-		/// @DnDArgument : "var" "ground_check_level"
-		/// @DnDArgument : "op" "1"
-		/// @DnDArgument : "value" "200"
-		if(ground_check_level < 200)
+		/// @DnDArgument : "x" "obj_Player.phy_position_x"
+		/// @DnDArgument : "y" "ground_check_level"
+		/// @DnDArgument : "target" "hill"
+		/// @DnDArgument : "target_temp" "1"
+		/// @DnDArgument : "object" "obj_hill"
+		/// @DnDArgument : "not" "1"
+		/// @DnDSaveInfo : "object" "807eb79b-829a-474f-9a06-f621300e6506"
+		var l24D73952_0 = instance_place(obj_Player.phy_position_x, ground_check_level, obj_hill);
+		var hill = l24D73952_0;
+		if (!(l24D73952_0 > 0))
 		{
-			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
-			/// @DnDHash : 2F2B3FC9
-			/// @DnDParent : 479E9939
-			/// @DnDArgument : "expr" "1"
-			/// @DnDArgument : "expr_relative" "1"
+			/// @DnDHash : 479E9939
+			/// @DnDParent : 24D73952
 			/// @DnDArgument : "var" "ground_check_level"
-			ground_check_level += 1;
+			/// @DnDArgument : "op" "1"
+			/// @DnDArgument : "value" "200"
+			if(ground_check_level < 200)
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 2F2B3FC9
+				/// @DnDParent : 479E9939
+				/// @DnDArgument : "expr" "1"
+				/// @DnDArgument : "expr_relative" "1"
+				/// @DnDArgument : "var" "ground_check_level"
+				ground_check_level += 1;
+			}
+		
+			/// @DnDAction : YoYo Games.Common.Else
+			/// @DnDVersion : 1
+			/// @DnDHash : 6BFA8176
+			/// @DnDParent : 24D73952
+			else
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 7AC82731
+				/// @DnDParent : 6BFA8176
+				/// @DnDArgument : "expr" "true"
+				/// @DnDArgument : "var" "ground_check"
+				ground_check = true;
+			
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 36A7944E
+				/// @DnDParent : 6BFA8176
+				/// @DnDArgument : "var" "ground_check_level"
+				ground_check_level = 0;
+			}
 		}
 	
 		/// @DnDAction : YoYo Games.Common.Else
 		/// @DnDVersion : 1
-		/// @DnDHash : 6BFA8176
+		/// @DnDHash : 7CF6C580
 		/// @DnDParent : 2E4DD745
 		else
 		{
-			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
-			/// @DnDHash : 7AC82731
-			/// @DnDParent : 6BFA8176
-			/// @DnDArgument : "expr" "true"
-			/// @DnDArgument : "var" "ground_check"
-			ground_check = true;
+			/// @DnDHash : 32287725
+			/// @DnDParent : 7CF6C580
+			/// @DnDArgument : "var" "hill.phy_active"
+			/// @DnDArgument : "value" "true"
+			if(hill.phy_active == true)
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 230443DC
+				/// @DnDParent : 32287725
+				/// @DnDArgument : "expr" "true"
+				/// @DnDArgument : "var" "ground_check"
+				ground_check = true;
+			}
 		
-			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDAction : YoYo Games.Common.Else
 			/// @DnDVersion : 1
-			/// @DnDHash : 36A7944E
-			/// @DnDParent : 6BFA8176
-			/// @DnDArgument : "var" "ground_check_level"
-			ground_check_level = 0;
+			/// @DnDHash : 07E043F0
+			/// @DnDParent : 7CF6C580
+			else
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 224FD12F
+				/// @DnDParent : 07E043F0
+				/// @DnDArgument : "expr" "true"
+				/// @DnDArgument : "var" "ground_check"
+				ground_check = true;
+			
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 4A2C4827
+				/// @DnDParent : 07E043F0
+				/// @DnDArgument : "var" "ground_check_level"
+				ground_check_level = 0;
+			}
 		}
 	}
 

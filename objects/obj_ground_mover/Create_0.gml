@@ -4,6 +4,13 @@
 /// @DnDArgument : "steps" "50"
 alarm_set(0, 50);
 
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 38C56FDC
+/// @DnDArgument : "steps" "100"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 100);
+
 /// @DnDAction : YoYo Games.Data Structures.Create_List
 /// @DnDVersion : 1
 /// @DnDHash : 793B3AC1
