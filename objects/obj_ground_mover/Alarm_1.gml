@@ -25,7 +25,7 @@ next_gate = floor(random_range(400, 600 + 1));
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 6040AF88
-/// @DnDArgument : "steps" "next_gate - obj_Player.move_speed *10"
+/// @DnDArgument : "steps" "next_gate - obj_Player.move_speed *40"
 /// @DnDArgument : "steps_relative" "1"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, next_gate - obj_Player.move_speed *10 + alarm_get(1));
+alarm_set(1, next_gate - obj_Player.move_speed *40 + alarm_get(1));

@@ -897,7 +897,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_453CA84D",
                     "x": 0,
-                    "y": 48,
+                    "y": 0,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -921,7 +921,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_B7D1E70",
                     "x": 320,
-                    "y": 48,
+                    "y": 0,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -972,7 +972,7 @@
             "vspeed": 0,
             "vtiled": false,
             "x": 0,
-            "y": 64
+            "y": -18
         }
     ],
     "parentId": "00000000-0000-0000-0000-000000000000",
