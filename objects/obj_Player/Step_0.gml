@@ -36,10 +36,10 @@ if(phy_position_x < start_x )
 		/// @DnDVersion : 1
 		/// @DnDHash : 25BE83A5
 		/// @DnDParent : 5529FDC0
-		/// @DnDArgument : "expr" ".2"
+		/// @DnDArgument : "expr" "1"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "phy_linear_velocity_x"
-		phy_linear_velocity_x += .2;
+		phy_linear_velocity_x += 1;
 	}
 }
 

@@ -1,12 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 6B1EE6CE
-/// @DnDArgument : "expr" "40"
-/// @DnDArgument : "var" "phy_linear_velocity_x"
-phy_linear_velocity_x = 40;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 1ECE126E
 /// @DnDApplyTo : 49b073bc-4cdf-46ce-a91a-2d07d3e144c1
 /// @DnDArgument : "expr" "- 10 - (50*obj_Player.move_speed)"

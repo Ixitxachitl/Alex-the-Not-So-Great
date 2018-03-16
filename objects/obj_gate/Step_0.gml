@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Movement.Snap_Position
-/// @DnDVersion : 1
-/// @DnDHash : 0B2105B9
-/// @DnDArgument : "xsnap" "1"
-/// @DnDArgument : "ysnap" "1"
-move_snap(1, 1);
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 0BD36211
