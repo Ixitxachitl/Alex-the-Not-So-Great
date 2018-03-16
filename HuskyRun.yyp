@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "36d8b375-444e-4ebc-9875-687bc5fc0d09",
-            "Value": {
-                "id": "ab197a34-0991-4c73-9e87-8fac96abd88a",
-                "resourcePath": "rooms\\rm_GMS2logo\\rm_GMS2logo.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "3f9419b6-00e5-4ee6-b1c1-34f3dc465cf8",
             "Value": {
                 "id": "940eaa23-5797-4f8d-9408-c12620eef234",
@@ -295,14 +287,6 @@
             }
         },
         {
-            "Key": "814d9880-fbed-45bc-b6a5-12058bd23706",
-            "Value": {
-                "id": "860c36e4-5ebe-407b-bb26-ed247b72d415",
-                "resourcePath": "rooms\\rm_title\\rm_title.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "842bc125-f87c-4f0c-8e4e-b2421343ac40",
             "Value": {
                 "id": "e85c10d4-ef64-44a5-a574-2bd102d1f62e",
@@ -420,14 +404,6 @@
                 "id": "4a19e710-9da0-42b9-9a82-f6fc6c4af6be",
                 "resourcePath": "objects\\obj_deathrespawn\\obj_deathrespawn.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c79cfc91-8050-4a11-9d0d-a89c99348d81",
-            "Value": {
-                "id": "fe29df9c-3e71-4f23-9a47-719159fbef6e",
-                "resourcePath": "rooms\\rm_SAElogo\\rm_SAElogo.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
