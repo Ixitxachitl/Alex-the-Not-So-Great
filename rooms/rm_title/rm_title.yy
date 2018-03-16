@@ -69,7 +69,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_381110C5",
-                    "x": 512,
+                    "x": 640,
                     "y": 608,
                     "IsDnD": true,
                     "colour": {
@@ -139,8 +139,8 @@
         "id": "2547580a-cf83-4b97-bdc9-5b03cec4de81",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 768,
-        "Width": 1024,
+        "Height": 720,
+        "Width": 1280,
         "inheritRoomSettings": false,
         "persistent": false
     },
