@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "6a353d66-dc46-4b76-b6e8-3bdfdb3075bf",
+            "Value": {
+                "id": "f3aee705-d7d2-4959-9551-70201c1f48f2",
+                "resourcePath": "sprites\\spr_3headeddog_jump\\spr_3headeddog_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b68cdb2-60c3-4fe2-8ea2-58b41f85bfed",
             "Value": {
                 "id": "9a2f0315-b966-49fb-a5a7-218103d13993",
