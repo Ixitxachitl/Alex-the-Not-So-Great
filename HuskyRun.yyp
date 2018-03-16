@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "da1e60c8-dcb8-4dcc-88b0-954774f42ae7",
+            "Value": {
+                "id": "c398fdaa-f94f-444a-adab-8fce7eaf4f68",
+                "resourcePath": "sprites\\spr_3headeddog_doublejump\\spr_3headeddog_doublejump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "db5dda45-31f9-4858-9095-928c581ddc96",
             "Value": {
                 "id": "94436cfb-e006-4965-91d5-968acaef2e76",
