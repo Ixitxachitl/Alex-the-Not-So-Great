@@ -57,3 +57,20 @@ else
 	/// @DnDArgument : "var" "phy_active"
 	phy_active = false;
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 05DC1710
+/// @DnDArgument : "var" "obj_Player.phy_position_x"
+/// @DnDArgument : "op" "2"
+/// @DnDArgument : "value" "phy_position_x+sprite_width/2"
+if(obj_Player.phy_position_x > phy_position_x+sprite_width/2)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 5D786144
+	/// @DnDParent : 05DC1710
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "phy_active"
+	phy_active = false;
+}
