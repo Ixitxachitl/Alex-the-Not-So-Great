@@ -17,8 +17,8 @@ if(!(grounded))
 	/// @DnDVersion : 1
 	/// @DnDHash : 5AA27DD7
 	/// @DnDParent : 0928746D
-	/// @DnDArgument : "spriteind" "spr_3headdog"
-	/// @DnDSaveInfo : "spriteind" "a8019d6b-63a0-4031-9087-6ce288563233"
-	sprite_index = spr_3headdog;
+	/// @DnDArgument : "spriteind" "spr_3headdog_run"
+	/// @DnDSaveInfo : "spriteind" "513067a3-6922-4d7c-b79e-9a4378582fd5"
+	sprite_index = spr_3headdog_run;
 	image_index = 0;
 }
