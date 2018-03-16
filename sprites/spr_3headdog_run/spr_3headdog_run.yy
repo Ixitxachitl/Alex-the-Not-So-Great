@@ -2,7 +2,7 @@
     "id": "513067a3-6922-4d7c-b79e-9a4378582fd5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_3headdog",
+    "name": "spr_3headdog_run",
     "For3D": false,
     "HTile": false,
     "VTile": false,
