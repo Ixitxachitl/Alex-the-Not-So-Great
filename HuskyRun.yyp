@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "6a353d66-dc46-4b76-b6e8-3bdfdb3075bf",
+            "Value": {
+                "id": "f3aee705-d7d2-4959-9551-70201c1f48f2",
+                "resourcePath": "sprites\\spr_3headeddog_jump\\spr_3headeddog_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b68cdb2-60c3-4fe2-8ea2-58b41f85bfed",
             "Value": {
                 "id": "9a2f0315-b966-49fb-a5a7-218103d13993",
@@ -315,6 +323,14 @@
             "Value": {
                 "id": "4f1b4f1f-6f98-4de6-9c8e-6742a0ba398c",
                 "resourcePath": "sprites\\spr_deathscreen\\spr_deathscreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f6fef23-f409-4d9c-a3c6-df300b8db1c8",
+            "Value": {
+                "id": "012dd14f-73a3-4818-a957-ee2601221932",
+                "resourcePath": "sprites\\spr_pressEnter\\spr_pressEnter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -500,6 +516,14 @@
                 "id": "e864b241-eef0-429b-823c-8974b316dde4",
                 "resourcePath": "sprites\\spr_gate\\spr_gate.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c09ff43a-12d8-4255-87e8-808eb94fc883",
+            "Value": {
+                "id": "525e60ee-e502-41dd-8c8a-5874a7a003f3",
+                "resourcePath": "objects\\obj_pressEnter\\obj_pressEnter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
