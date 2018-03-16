@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "c0eee26c-46c7-42ce-ba28-12066eb91bba",
+            "Value": {
+                "id": "6d9f16b0-51e1-4fb2-9df4-e0c2c449d7fc",
+                "resourcePath": "sprites\\Spr_Saelogo1\\Spr_Saelogo1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0fa66b1-2831-4c22-89a2-923dc14725f3",
             "Value": {
                 "id": "1d3ed123-8fa9-467f-9e0b-07933d2a6daf",

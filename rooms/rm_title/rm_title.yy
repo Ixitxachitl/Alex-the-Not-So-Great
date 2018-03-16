@@ -70,8 +70,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_381110C5",
-                    "x": 640,
-                    "y": 608,
+                    "x": 544,
+                    "y": 384,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -94,7 +94,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3FEAE80F",
-                    "x": 480,
+                    "x": 544,
                     "y": 608,
                     "IsDnD": true,
                     "colour": {
