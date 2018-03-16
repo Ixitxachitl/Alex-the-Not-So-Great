@@ -8,6 +8,6 @@ image_alpha = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 6F97562C
 /// @DnDArgument : "x" "room_width/2"
-/// @DnDArgument : "y" "room_height/2"
+/// @DnDArgument : "y" "room_height/10"
 x = room_width/2;
-y = room_height/2;
+y = room_height/10;
