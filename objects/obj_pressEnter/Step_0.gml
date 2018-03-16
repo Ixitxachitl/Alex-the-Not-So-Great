@@ -28,6 +28,5 @@ if(image_alpha >= 1)
 	/// @DnDHash : 06070A1B
 	/// @DnDParent : 190AD0C2
 	/// @DnDArgument : "alpha" "0"
-	/// @DnDArgument : "alpha_relative" "1"
-	image_alpha += 0;
+	image_alpha = 0;
 }
