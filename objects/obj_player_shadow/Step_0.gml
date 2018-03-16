@@ -82,8 +82,9 @@ while ((ground_check == false)) {
 				/// @DnDVersion : 1
 				/// @DnDHash : 36A7944E
 				/// @DnDParent : 6BFA8176
+				/// @DnDArgument : "expr" "-10"
 				/// @DnDArgument : "var" "ground_check_level"
-				ground_check_level = 0;
+				ground_check_level = -10;
 			}
 		}
 	
