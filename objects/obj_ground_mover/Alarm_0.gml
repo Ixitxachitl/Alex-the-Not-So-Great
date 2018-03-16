@@ -18,13 +18,13 @@ show_debug_message(string("spawned gate"));
 /// @DnDHash : 6373CEFA
 /// @DnDArgument : "var" "next_gate"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "min" "50"
-/// @DnDArgument : "max" "100"
-next_gate = floor(random_range(50, 100 + 1));
+/// @DnDArgument : "min" "200"
+/// @DnDArgument : "max" "400"
+next_gate = floor(random_range(200, 400 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2CF4995A
-/// @DnDArgument : "steps" "next_gate - obj_Player.move_speed *10"
+/// @DnDArgument : "steps" "next_gate - obj_Player.move_speed*40"
 /// @DnDArgument : "steps_relative" "1"
-alarm_set(0, next_gate - obj_Player.move_speed *10 + alarm_get(0));
+alarm_set(0, next_gate - obj_Player.move_speed*40 + alarm_get(0));
