@@ -226,7 +226,7 @@
             "Key": "513067a3-6922-4d7c-b79e-9a4378582fd5",
             "Value": {
                 "id": "99c9bba5-f4ec-4ffe-96b4-b5df5cb1004a",
-                "resourcePath": "sprites\\spr_3headdog\\spr_3headdog.yy",
+                "resourcePath": "sprites\\spr_3headdog_run\\spr_3headdog_run.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -499,6 +499,14 @@
             "Value": {
                 "id": "e864b241-eef0-429b-823c-8974b316dde4",
                 "resourcePath": "sprites\\spr_gate\\spr_gate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0fa66b1-2831-4c22-89a2-923dc14725f3",
+            "Value": {
+                "id": "1d3ed123-8fa9-467f-9e0b-07933d2a6daf",
+                "resourcePath": "sprites\\spr_3headeddog_idle\\spr_3headeddog_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
