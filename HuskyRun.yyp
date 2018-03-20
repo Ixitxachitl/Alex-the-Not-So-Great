@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "778538a4-becf-4249-8fcb-f8d8acd31676",
+            "Value": {
+                "id": "1c0025c8-80d3-4c41-b5e9-34857925e47f",
+                "resourcePath": "sprites\\spr_angrymob\\spr_angrymob.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c747797-470b-4279-891e-0e9e08cbc9fc",
             "Value": {
                 "id": "d805dc99-51b6-4c7c-a900-6b5034beaba8",
