@@ -89,7 +89,7 @@
                     "id": "b20f898a-c560-42a5-871a-0584008168c4",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
-                    "ignore": false,
+                    "ignore": true,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
@@ -136,7 +136,7 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4294967295
+                "Value": 4278190080
             },
             "hspeed": 0,
             "htiled": false,

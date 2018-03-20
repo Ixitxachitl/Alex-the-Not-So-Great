@@ -11,3 +11,16 @@ image_alpha = 0;
 /// @DnDArgument : "y" "room_height-120"
 x = room_width/2;
 y = room_height-120;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 718C7975
+/// @DnDArgument : "steps" "90"
+alarm_set(0, 90);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 24534019
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "delayed"
+delayed = false;

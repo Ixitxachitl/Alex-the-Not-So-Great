@@ -22,3 +22,17 @@ if(!(grounded))
 	sprite_index = spr_3headdog_run;
 	image_index = 0;
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5AF39A1E
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "has_double_jumped"
+has_double_jumped = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5504452F
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "has_jumped"
+has_jumped = false;
