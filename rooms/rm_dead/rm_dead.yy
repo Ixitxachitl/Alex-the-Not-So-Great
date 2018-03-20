@@ -83,7 +83,7 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 10,
+            "animationFPS": 5,
             "animationSpeedType": 0,
             "colour": {
                 "Value": 4294967295
