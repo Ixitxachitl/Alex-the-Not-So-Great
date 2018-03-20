@@ -23,12 +23,11 @@ if(image_alpha < 1)
 	/// @DnDArgument : "value" "1"
 	if(image_alpha >= 1)
 	{
-		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
-		/// @DnDHash : 749F5002
+		/// @DnDHash : 1EA24738
 		/// @DnDParent : 104FDFBA
-		/// @DnDArgument : "room" "rm_title"
-		/// @DnDSaveInfo : "room" "3a109159-989e-4749-89ea-925199493851"
-		room_goto(rm_title);
+		/// @DnDArgument : "steps" "60"
+		alarm_set(0, 60);
 	}
 }
