@@ -15,9 +15,9 @@ y = room_height/2;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 63930E23
-/// @DnDArgument : "steps" "90"
+/// @DnDArgument : "steps" "60"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 90);
+alarm_set(1, 60);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
