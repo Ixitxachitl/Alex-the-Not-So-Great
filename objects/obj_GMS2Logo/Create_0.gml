@@ -11,3 +11,9 @@ image_alpha = 0;
 /// @DnDArgument : "y" "room_height/2"
 x = room_width/2;
 y = room_height/2;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 498D6427
+/// @DnDArgument : "steps" "180"
+alarm_set(0, 180);
