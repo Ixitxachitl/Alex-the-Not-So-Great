@@ -3,9 +3,9 @@
 /// @DnDHash : 2C39DAEC
 /// @DnDArgument : "xpos" "camera_get_view_width(view_get_camera(0))+64"
 /// @DnDArgument : "objectid" "obj_hill"
-/// @DnDArgument : "layer" ""lyr_ground""
+/// @DnDArgument : "layer" ""lyr_hill""
 /// @DnDSaveInfo : "objectid" "807eb79b-829a-474f-9a06-f621300e6506"
-instance_create_layer(camera_get_view_width(view_get_camera(0))+64, 0, "lyr_ground", obj_hill);
+instance_create_layer(camera_get_view_width(view_get_camera(0))+64, 0, "lyr_hill", obj_hill);
 
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1

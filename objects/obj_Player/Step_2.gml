@@ -110,9 +110,9 @@ if(phy_position_x + 1 < phy_position_xprevious)
 		/// @DnDVersion : 1
 		/// @DnDHash : 281A4958
 		/// @DnDParent : 5B518729
-		/// @DnDArgument : "spriteind" "spr_player_idle"
-		/// @DnDSaveInfo : "spriteind" "220c3a91-de8b-412b-bd37-0886eb622a2e"
-		sprite_index = spr_player_idle;
+		/// @DnDArgument : "spriteind" "spr_3headeddog_idle"
+		/// @DnDSaveInfo : "spriteind" "c0fa66b1-2831-4c22-89a2-923dc14725f3"
+		sprite_index = spr_3headeddog_idle;
 		image_index = 0;
 	}
 }
