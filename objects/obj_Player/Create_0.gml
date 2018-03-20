@@ -88,3 +88,17 @@ else
 /// @DnDArgument : "expr" "-1"
 /// @DnDArgument : "var" "global.RoomBeforePause"
 global.RoomBeforePause = -1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 625B48F1
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "has_double_jumped"
+has_double_jumped = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 465F56D6
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "has_jumped"
+has_jumped = false;
