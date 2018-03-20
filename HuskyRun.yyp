@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "246a585d-c6c1-47a2-8c61-a9daf649bb86",
+            "Value": {
+                "id": "a6e70b82-ca75-4db2-8437-19f4177a201b",
+                "resourcePath": "objects\\obj_fg\\obj_fg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d6ce7a9-0af3-4202-9d5c-43c16a3e391d",
             "Value": {
                 "id": "a47da8ca-b295-4ab0-b66d-348bba5c94d9",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "61123e56-bd88-41d1-b982-e135f7295272",
+            "Value": {
+                "id": "98feeb75-8e5e-487b-aa20-74c1bb276704",
+                "resourcePath": "sprites\\spr_wheet\\spr_wheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6559c95f-40d3-4045-b459-db096afca88f",
             "Value": {
                 "id": "5c0d3e9d-19c3-4cc5-9027-488d40f7d957",
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "778538a4-becf-4249-8fcb-f8d8acd31676",
+            "Value": {
+                "id": "1c0025c8-80d3-4c41-b5e9-34857925e47f",
+                "resourcePath": "sprites\\spr_angrymob\\spr_angrymob.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c747797-470b-4279-891e-0e9e08cbc9fc",
             "Value": {
                 "id": "d805dc99-51b6-4c7c-a900-6b5034beaba8",
@@ -415,14 +439,6 @@
             }
         },
         {
-            "Key": "8e4b995c-b986-4afc-8df4-d833ba6ebe85",
-            "Value": {
-                "id": "258c7757-b964-4e01-ac02-60d441908336",
-                "resourcePath": "sprites\\spr_crowd\\spr_crowd.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9a66b23c-c7a4-4eee-9d38-4f4fb66ec5f4",
             "Value": {
                 "id": "9181b0aa-adb8-46d1-a1a3-e4f25deb7980",
@@ -452,6 +468,14 @@
                 "id": "cec50445-b350-4274-8e4a-702fef7c752d",
                 "resourcePath": "sounds\\snd_music_1\\snd_music_1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a11a0413-ee8f-4892-8399-a24f97ccf4c1",
+            "Value": {
+                "id": "da7a9a14-73b3-452f-8f37-f5f489b1489a",
+                "resourcePath": "sprites\\spr_wheat_small\\spr_wheat_small.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

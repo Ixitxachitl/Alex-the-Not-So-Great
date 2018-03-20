@@ -10,9 +10,8 @@ if(moved)
 	/// @DnDParent : 0F9E8FD3
 	/// @DnDArgument : "var" "mv"
 	/// @DnDArgument : "var_temp" "1"
-	/// @DnDArgument : "min" "-.5"
-	/// @DnDArgument : "max" ".5"
-	var mv = (random_range(-.5, .5));
+	/// @DnDArgument : "max" "0"
+	var mv = (random_range(0, 0));
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
