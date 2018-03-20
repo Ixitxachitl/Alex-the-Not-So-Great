@@ -959,20 +959,20 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 2,
+            "animationFPS": 3,
             "animationSpeedType": 0,
             "colour": {
                 "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "3287e7da-791e-4586-b566-ab4ebcebf19e",
+            "spriteId": "d7a86bb6-ad1c-41a9-8d97-dc2efad54af7",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
             "vtiled": false,
             "x": 0,
-            "y": 0
+            "y": -18
         }
     ],
     "parentId": "00000000-0000-0000-0000-000000000000",
