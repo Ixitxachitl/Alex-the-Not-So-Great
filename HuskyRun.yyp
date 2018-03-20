@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "8608d8a1-d6dc-48c7-bb0c-148be5e0b998",
+            "Value": {
+                "id": "e5af46b9-2714-4a6f-81f1-b87809d06162",
+                "resourcePath": "sprites\\spr_3headdog_Invincibility\\spr_3headdog_Invincibility.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9a66b23c-c7a4-4eee-9d38-4f4fb66ec5f4",
             "Value": {
                 "id": "9181b0aa-adb8-46d1-a1a3-e4f25deb7980",
@@ -524,6 +532,14 @@
                 "id": "ce050f9b-d52a-465a-be1b-567765746e22",
                 "resourcePath": "rooms\\rm_dead\\rm_dead.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b87335be-24ec-4cf6-9461-80cf8b299625",
+            "Value": {
+                "id": "c9937c10-4a61-48b1-b0ee-b15d6ee9632f",
+                "resourcePath": "sprites\\sprite37\\sprite37.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
