@@ -378,7 +378,7 @@
             "Key": "778538a4-becf-4249-8fcb-f8d8acd31676",
             "Value": {
                 "id": "1c0025c8-80d3-4c41-b5e9-34857925e47f",
-                "resourcePath": "sprites\\spr_angrymob\\spr_angrymob.yy",
+                "resourcePath": "sprites\\spr_crowd\\spr_crowd.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -436,6 +436,14 @@
                 "id": "bbe133b0-dace-4636-8a80-b810b88b78a2",
                 "resourcePath": "views\\84fd9cd2-ec28-4216-a7b5-5834ceb0b256.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9188753f-1a38-4683-8f6f-7c83c3802615",
+            "Value": {
+                "id": "9c9d0b2b-c0a7-4d9a-9319-f7b4d71093ca",
+                "resourcePath": "objects\\obj_crowd\\obj_crowd.yy",
+                "resourceType": "GMObject"
             }
         },
         {
