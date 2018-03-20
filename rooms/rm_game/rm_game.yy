@@ -925,7 +925,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_62B73C90",
                     "x": 0,
-                    "y": 100,
+                    "y": 104,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -949,7 +949,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_4BD3BEFF",
                     "x": 320,
-                    "y": 100,
+                    "y": 104,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
