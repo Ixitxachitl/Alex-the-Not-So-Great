@@ -1209,14 +1209,14 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 3,
+            "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
                 "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "d7a86bb6-ad1c-41a9-8d97-dc2efad54af7",
+            "spriteId": "2229ed5f-d491-482d-a225-84e3091ac4f5",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
