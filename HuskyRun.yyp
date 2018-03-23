@@ -271,14 +271,6 @@
             }
         },
         {
-            "Key": "524317ec-536a-45be-be66-371f84f67bf6",
-            "Value": {
-                "id": "227d4ea6-e4c6-49d3-941b-b594e0aa50a5",
-                "resourcePath": "sprites\\sprite39\\sprite39.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "55235619-9139-4135-8451-bd0b17cca305",
             "Value": {
                 "id": "a6368cdf-2621-499f-89ba-d375c013a6e5",
@@ -316,6 +308,14 @@
                 "id": "b153df0f-1994-4e67-82ad-5a65047d23b6",
                 "resourcePath": "fonts\\fnt_free_pixel\\fnt_free_pixel.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "5ee79483-f4cb-4ef2-93ed-7f77c4670bc2",
+            "Value": {
+                "id": "bc2a8e6c-2668-4736-8b95-b861a2bfc3b5",
+                "resourcePath": "sprites\\spr_soul_large\\spr_soul_large.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -564,14 +564,6 @@
                 "id": "c4849561-83db-41fd-b58a-ed586b4e64e8",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "a93c25b4-33bc-457b-bb0e-c97e6ff5c6c6",
-            "Value": {
-                "id": "7b1c015e-dcf0-4344-9cc3-8086f988d390",
-                "resourcePath": "sprites\\spr_soullarge\\spr_soullarge.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
