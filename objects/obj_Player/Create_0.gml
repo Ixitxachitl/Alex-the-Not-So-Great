@@ -8,8 +8,9 @@ start_x = phy_position_x;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 11D45ED5
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "move_speed"
-move_speed = 0;
+move_speed = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
