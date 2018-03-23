@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "11312716-95df-41b4-9db9-3ba2a6c1000d",
+            "Value": {
+                "id": "c5cee368-1904-4004-8102-3dba54a4fe7a",
+                "resourcePath": "objects\\obj_hill2\\obj_hill2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12dea0b7-325f-4cbb-b1b0-5d4ec8f8e264",
             "Value": {
                 "id": "9fb266c7-9949-4e7d-a5ae-f4d334986432",
