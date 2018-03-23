@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "9ad929c3-f638-4e4b-b1b4-c35daa857568",
+            "Value": {
+                "id": "c4ddd088-a7d9-4733-8127-9d424df34cfd",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ca69bab-da78-46bc-8838-d8095dd9213b",
             "Value": {
                 "id": "487c3843-672f-47d6-a525-9515e5676f28",
@@ -796,6 +804,14 @@
                 "id": "93ab9457-cfaf-421e-a53a-e6f43ea57092",
                 "resourcePath": "objects\\obj_bg\\obj_bg.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e413718a-332c-4682-8f5f-4b3c1045f65e",
+            "Value": {
+                "id": "bf97c689-998a-4217-a39a-c098875753b3",
+                "resourcePath": "rooms\\rm_scorescreen\\rm_scorescreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
