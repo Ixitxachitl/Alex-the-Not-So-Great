@@ -15,15 +15,6 @@ if(x + sprite_width <= 0)
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 0A9A7484
-	/// @DnDParent : 6D2E5AF9
-	/// @DnDArgument : "expr" "1"
-	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "obj_Player.dist_score"
-	obj_Player.dist_score += 1;
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
 	/// @DnDHash : 1D055693
 	/// @DnDParent : 6D2E5AF9
 	/// @DnDArgument : "expr" "true"
