@@ -805,6 +805,14 @@
                 "resourcePath": "objects\\obj_bg2\\obj_bg2.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "ff9a8740-1ae7-4675-8521-8e0662c608e0",
+            "Value": {
+                "id": "48c89df9-f166-4884-86ec-04bcfb0eef3b",
+                "resourcePath": "sounds\\snd_item_pickup\\snd_item_pickup.yy",
+                "resourceType": "GMSound"
+            }
         }
     ],
     "script_order": [
