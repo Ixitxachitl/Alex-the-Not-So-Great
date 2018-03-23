@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "f233e3f0-ef0f-4410-9ac7-8c6737e034ec",
+            "Value": {
+                "id": "cf73604f-7936-4216-95db-1d2fc2a38ee6",
+                "resourcePath": "objects\\obj_AlexTitleSprite\\obj_AlexTitleSprite.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f3548798-bb57-4c15-94b5-8ce68ff70946",
             "Value": {
                 "id": "5e4094e8-245c-49e0-a42c-4c076152ca5d",
