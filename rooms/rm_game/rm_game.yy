@@ -1216,8 +1216,8 @@
             "colour": {
                 "Value": 4294967295
             },
-            "hspeed": 0,
-            "htiled": false,
+            "hspeed": -0.01,
+            "htiled": true,
             "spriteId": "3287e7da-791e-4586-b566-ab4ebcebf19e",
             "stretch": false,
             "userdefined_animFPS": false,
@@ -1234,8 +1234,8 @@
         "mvc": "1.0",
         "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 200,
-        "PhysicsWorldPixToMeters": 1,
+        "PhysicsWorldGravityY": 400,
+        "PhysicsWorldPixToMeters": 0.5,
         "inheritPhysicsSettings": false
     },
     "roomSettings": {

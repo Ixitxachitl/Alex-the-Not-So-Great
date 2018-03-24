@@ -30,10 +30,10 @@ if(phy_position_x + sprite_width < 0)
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 487D2DC4
-/// @DnDArgument : "var" "obj_Player.phy_position_y+16"
+/// @DnDArgument : "var" "obj_Player.phy_position_y+18"
 /// @DnDArgument : "op" "1"
 /// @DnDArgument : "value" "phy_position_y"
-if(obj_Player.phy_position_y+16 < phy_position_y)
+if(obj_Player.phy_position_y+18 < phy_position_y)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
