@@ -1216,7 +1216,7 @@
             "colour": {
                 "Value": 4294967295
             },
-            "hspeed": -0.01,
+            "hspeed": -0.05,
             "htiled": true,
             "spriteId": "3287e7da-791e-4586-b566-ab4ebcebf19e",
             "stretch": false,
