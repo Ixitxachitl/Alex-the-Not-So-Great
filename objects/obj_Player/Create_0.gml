@@ -35,11 +35,11 @@ camera_def = view_get_camera(0);
 /// @DnDArgument : "arg" "camera_def"
 camera_width = camera_get_view_width(camera_def);
 
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
-/// @DnDHash : 45A18E2B
+/// @DnDHash : 211D5C2E
 /// @DnDArgument : "var" "dist_score"
-dist_score = 0;
+global.dist_score = 0;
 
 /// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
 /// @DnDVersion : 1
