@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "ce5137af-0fd7-430c-b957-6fda298723c9",
+            "Value": {
+                "id": "08a0c9e6-c524-4248-a0f3-4094706c9781",
+                "resourcePath": "sounds\\snd_medusa_scream\\snd_medusa_scream.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d82277f8-ea62-49c5-8747-38f7cc35354b",
             "Value": {
                 "id": "bc5873df-6562-4b05-9cdf-62c18971bc1e",
