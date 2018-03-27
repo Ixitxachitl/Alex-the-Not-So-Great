@@ -53,8 +53,8 @@ draw_set_alpha(1);
 /// @DnDArgument : "x" "camera_get_view_x(camera_def) + 1"
 /// @DnDArgument : "y" "camera_get_view_y(camera_def)  +1"
 /// @DnDArgument : "caption" ""Score: ""
-/// @DnDArgument : "var" "dist_score"
-draw_text(camera_get_view_x(camera_def) + 1, camera_get_view_y(camera_def)  +1, string("Score: ") + string(dist_score));
+/// @DnDArgument : "var" "global.dist_score"
+draw_text(camera_get_view_x(camera_def) + 1, camera_get_view_y(camera_def)  +1, string("Score: ") + string(global.dist_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Self
 /// @DnDVersion : 1
