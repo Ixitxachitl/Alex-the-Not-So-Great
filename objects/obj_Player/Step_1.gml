@@ -40,10 +40,10 @@ if(!(global.RoomBeforePause == -1))
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 65BBE39F
-/// @DnDArgument : "var" "dist_score"
+/// @DnDArgument : "var" "global.dist_score"
 /// @DnDArgument : "op" "4"
 /// @DnDArgument : "value" "50"
-if(dist_score >= 50)
+if(global.dist_score >= 50)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1

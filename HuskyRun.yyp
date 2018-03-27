@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "22cc8c5c-a614-483d-be62-65f1f424857c",
+            "Value": {
+                "id": "e9c9cff1-630b-486f-b4d3-a826e70bc6a7",
+                "resourcePath": "objects\\obj_ball\\obj_ball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "246a585d-c6c1-47a2-8c61-a9daf649bb86",
             "Value": {
                 "id": "a6e70b82-ca75-4db2-8437-19f4177a201b",
@@ -220,6 +228,14 @@
                 "id": "940eaa23-5797-4f8d-9408-c12620eef234",
                 "resourcePath": "rooms\\rm_pause\\rm_pause.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "45df2bfe-b30e-4c3a-9b5e-27e23d44abeb",
+            "Value": {
+                "id": "5440bf21-c7e0-4b09-9868-a066faaa4e38",
+                "resourcePath": "objects\\obj_ball_spawner\\obj_ball_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -327,6 +343,14 @@
             }
         },
         {
+            "Key": "648d847b-8b1a-48eb-ae71-5d48390cb60f",
+            "Value": {
+                "id": "5f4e5b03-85ca-487d-a4f4-c4ff09906ed2",
+                "resourcePath": "objects\\obj_soultitleleft\\obj_soultitleleft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6559c95f-40d3-4045-b459-db096afca88f",
             "Value": {
                 "id": "5c0d3e9d-19c3-4cc5-9027-488d40f7d957",
@@ -372,6 +396,14 @@
                 "id": "012dd14f-73a3-4818-a957-ee2601221932",
                 "resourcePath": "sprites\\spr_pressEnter\\spr_pressEnter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3",
+            "Value": {
+                "id": "cff21b75-6071-40b7-9ecf-5d0f3157e579",
+                "resourcePath": "objects\\obj_medusa_powerup\\obj_medusa_powerup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -467,6 +499,14 @@
             "Value": {
                 "id": "e5af46b9-2714-4a6f-81f1-b87809d06162",
                 "resourcePath": "sprites\\spr_3headdog_Invincibility\\spr_3headdog_Invincibility.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
+            "Value": {
+                "id": "ec82a91b-4604-497f-b652-a857f937b02a",
+                "resourcePath": "sprites\\spr_medusa_powerup\\spr_medusa_powerup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -695,6 +735,22 @@
             }
         },
         {
+            "Key": "ce5137af-0fd7-430c-b957-6fda298723c9",
+            "Value": {
+                "id": "08a0c9e6-c524-4248-a0f3-4094706c9781",
+                "resourcePath": "sounds\\snd_medusa_scream\\snd_medusa_scream.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d383a4cd-c7fa-4a20-8a0a-f635d211364e",
+            "Value": {
+                "id": "140bb607-da7e-46c4-b6e7-6a6e04c8c9a5",
+                "resourcePath": "objects\\obj_medusa\\obj_medusa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d82277f8-ea62-49c5-8747-38f7cc35354b",
             "Value": {
                 "id": "bc5873df-6562-4b05-9cdf-62c18971bc1e",
@@ -722,7 +778,7 @@
             "Key": "dc77b2f6-70c3-4e37-858a-b46514834e7a",
             "Value": {
                 "id": "4c80c283-51c3-4bed-8c3d-ac2fa3716d4c",
-                "resourcePath": "objects\\obj_soultitle\\obj_soultitle.yy",
+                "resourcePath": "objects\\obj_soultitleright\\obj_soultitleright.yy",
                 "resourceType": "GMObject"
             }
         },
