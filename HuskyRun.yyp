@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3",
+            "Value": {
+                "id": "cff21b75-6071-40b7-9ecf-5d0f3157e579",
+                "resourcePath": "objects\\obj_medusa_powerup\\obj_medusa_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74f0a567-b21d-42f9-82a5-87635542d657",
             "Value": {
                 "id": "b64355a2-ab9f-4b77-8f84-eae4f7fd162b",
@@ -435,6 +443,14 @@
             "Value": {
                 "id": "e5af46b9-2714-4a6f-81f1-b87809d06162",
                 "resourcePath": "sprites\\spr_3headdog_Invincibility\\spr_3headdog_Invincibility.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
+            "Value": {
+                "id": "ec82a91b-4604-497f-b652-a857f937b02a",
+                "resourcePath": "sprites\\spr_medusa_powerup\\spr_medusa_powerup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -652,6 +668,14 @@
                 "id": "08a0c9e6-c524-4248-a0f3-4094706c9781",
                 "resourcePath": "sounds\\snd_medusa_scream\\snd_medusa_scream.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d383a4cd-c7fa-4a20-8a0a-f635d211364e",
+            "Value": {
+                "id": "140bb607-da7e-46c4-b6e7-6a6e04c8c9a5",
+                "resourcePath": "objects\\obj_medusa\\obj_medusa.yy",
+                "resourceType": "GMObject"
             }
         },
         {
