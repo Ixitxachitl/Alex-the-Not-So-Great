@@ -2,7 +2,7 @@
     "id": "84a9033a-69b9-4cd4-81e7-3d0c988348d0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_MadewithGamemaker",
+    "name": "spr_MadewithGamemaker",
     "For3D": false,
     "HTile": false,
     "VTile": false,
