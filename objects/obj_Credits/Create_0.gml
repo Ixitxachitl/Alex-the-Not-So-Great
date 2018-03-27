@@ -11,3 +11,10 @@ image_alpha = 0;
 /// @DnDArgument : "y" "room_height-50"
 x = room_width-50;
 y = room_height-50;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2EAEBA05
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "credits"
+credits = false;
