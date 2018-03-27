@@ -2,7 +2,7 @@
     "id": "097b4975-d250-4c49-ac0c-07d06baa7148",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_Saelogofiller",
+    "name": "spr_Saelogofiller",
     "For3D": false,
     "HTile": false,
     "VTile": false,
