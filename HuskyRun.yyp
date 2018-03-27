@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "c1e25b0c-ee2b-4460-9786-c1266043ce10",
+            "Value": {
+                "id": "f978a08f-723b-4b50-ac6c-fe67468c0503",
+                "resourcePath": "sounds\\snd_powerup\\snd_powerup.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c2f94e4a-76b2-45a7-adf2-af0e5c6fd274",
             "Value": {
                 "id": "7e30d171-7beb-400a-9699-950fe202d9c6",
