@@ -24,8 +24,8 @@ draw_set_alpha(.5);
 /// @DnDArgument : "x" "camera_get_view_x(camera_def) + 2"
 /// @DnDArgument : "y" "camera_get_view_y(camera_def)  +1"
 /// @DnDArgument : "caption" ""Score: ""
-/// @DnDArgument : "var" "dist_score"
-draw_text(camera_get_view_x(camera_def) + 2, camera_get_view_y(camera_def)  +1, string("Score: ") + string(dist_score));
+/// @DnDArgument : "var" "global.dist_score"
+draw_text(camera_get_view_x(camera_def) + 2, camera_get_view_y(camera_def)  +1, string("Score: ") + string(global.dist_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
@@ -33,8 +33,8 @@ draw_text(camera_get_view_x(camera_def) + 2, camera_get_view_y(camera_def)  +1, 
 /// @DnDArgument : "x" "camera_get_view_x(camera_def) + 2"
 /// @DnDArgument : "y" "camera_get_view_y(camera_def)  +2"
 /// @DnDArgument : "caption" ""Score: ""
-/// @DnDArgument : "var" "dist_score"
-draw_text(camera_get_view_x(camera_def) + 2, camera_get_view_y(camera_def)  +2, string("Score: ") + string(dist_score));
+/// @DnDArgument : "var" "global.dist_score"
+draw_text(camera_get_view_x(camera_def) + 2, camera_get_view_y(camera_def)  +2, string("Score: ") + string(global.dist_score));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
