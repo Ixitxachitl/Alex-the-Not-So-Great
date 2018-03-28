@@ -27,8 +27,8 @@ if(!(global.RoomBeforePause == -1))
 	/// @DnDHash : 62C37382
 	/// @DnDParent : 76178EDB
 	/// @DnDArgument : "function" "sprite_delete"
-	/// @DnDArgument : "arg" "global.PauseScreenshot"
-	sprite_delete(global.PauseScreenshot);
+	/// @DnDArgument : "arg" "global.spr_PauseScreenshot"
+	sprite_delete(global.spr_PauseScreenshot);
 
 	/// @DnDAction : YoYo Games.Audio.Resume_All_Audio
 	/// @DnDVersion : 1
