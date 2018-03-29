@@ -14,9 +14,9 @@ var tmp_Y = floor(random_range(32, 124 + 1));
 /// @DnDArgument : "xpos_relative" "1"
 /// @DnDArgument : "ypos" "tmp_Y"
 /// @DnDArgument : "objectid" "obj_ball"
-/// @DnDArgument : "layer" ""lyr_player""
+/// @DnDArgument : "layer" ""lyr_objs""
 /// @DnDSaveInfo : "objectid" "22cc8c5c-a614-483d-be62-65f1f424857c"
-instance_create_layer(x + 0, tmp_Y, "lyr_player", obj_ball);
+instance_create_layer(x + 0, tmp_Y, "lyr_objs", obj_ball);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
