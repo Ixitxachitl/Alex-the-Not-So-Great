@@ -13,6 +13,7 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
+    "edgeFiltering": false,
     "frames": [
         {
             "id": "af6895dd-91d4-41b7-a7d7-22aefc4b7c24",
@@ -53,15 +54,17 @@
             "visible": true
         }
     ],
-    "origin": 4,
+    "origin": 0,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
+    "premultiplyAlpha": false,
     "sepmasks": false,
     "swatchColours": null,
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 320,
-    "xorig": 160,
-    "yorig": 90
+    "xorig": 0,
+    "yorig": 0
 }

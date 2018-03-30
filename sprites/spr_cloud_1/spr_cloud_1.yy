@@ -7,32 +7,33 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 28,
-    "bbox_left": 3,
+    "bbox_left": 0,
     "bbox_right": 88,
     "bbox_top": 5,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
+    "edgeFiltering": false,
     "frames": [
         {
-            "id": "f3958c7b-4861-4acd-b656-5cf0e27169e8",
+            "id": "6430f923-3f5c-4fc5-8acb-8e044a84bc9d",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "9c9e2f63-b761-4a97-9b54-c965040b5cb1",
             "compositeImage": {
-                "id": "845e9046-5bf9-4de3-9937-3152c8013d10",
+                "id": "3dd0fa44-5738-4160-8965-50c63875fc4c",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "f3958c7b-4861-4acd-b656-5cf0e27169e8",
+                "FrameId": "6430f923-3f5c-4fc5-8acb-8e044a84bc9d",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "4bb3fc0c-c6ab-4496-a3f3-0ae9ed3e744f",
+                    "id": "cb5922f7-f284-43ba-a81a-653c8eb366ac",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "f3958c7b-4861-4acd-b656-5cf0e27169e8",
-                    "LayerId": "369c57a0-a0f0-440f-bba9-141c573a9eaa"
+                    "FrameId": "6430f923-3f5c-4fc5-8acb-8e044a84bc9d",
+                    "LayerId": "66049241-c02e-4db5-b1b9-bbc957b6c6a4"
                 }
             ]
         }
@@ -42,7 +43,7 @@
     "height": 30,
     "layers": [
         {
-            "id": "369c57a0-a0f0-440f-bba9-141c573a9eaa",
+            "id": "66049241-c02e-4db5-b1b9-bbc957b6c6a4",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "9c9e2f63-b761-4a97-9b54-c965040b5cb1",
@@ -54,8 +55,10 @@
         }
     ],
     "origin": 0,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
+    "premultiplyAlpha": false,
     "sepmasks": false,
     "swatchColours": null,
     "swfPrecision": 2.525,

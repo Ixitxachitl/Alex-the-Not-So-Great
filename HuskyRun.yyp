@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "0412d025-f563-491f-882e-e48bb85bc480",
-            "Value": {
-                "id": "9c61a9d4-d3ab-4e37-ad85-a33792cad1f0",
-                "resourcePath": "objects\\obj_medus_spawner\\obj_medus_spawner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "05d2c90c-f2b9-4c06-ae62-0e5e599bfde6",
             "Value": {
                 "id": "25d1e65c-3f3d-4070-80b1-e45246c4caea",
@@ -391,14 +383,6 @@
             }
         },
         {
-            "Key": "6b89497b-acc2-461e-84ce-15b0c0099d98",
-            "Value": {
-                "id": "2ee65eaf-8c04-4df5-8f6d-cd64519b7af4",
-                "resourcePath": "objects\\obj_pausetext\\obj_pausetext.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6ba2cb85-6472-4ba1-82c7-2f737d77c31d",
             "Value": {
                 "id": "4f1b4f1f-6f98-4de6-9c8e-6742a0ba398c",
@@ -620,14 +604,6 @@
                 "id": "0af9e0a3-9745-4cd0-9b9e-8568693e65e0",
                 "resourcePath": "objects\\obj_ground_tile\\obj_ground_tile.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a8fda277-c156-4a6f-8b79-07aab803cddc",
-            "Value": {
-                "id": "357b2a71-dee9-4b47-b832-9bf259bed0af",
-                "resourcePath": "sprites\\spr_pause\\spr_pause.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
