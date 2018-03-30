@@ -5,6 +5,12 @@
 /// @DnDSaveInfo : "font" "5d7dd24f-2754-4110-b09a-856815bb56e2"
 draw_set_font(fnt_free_pixel);
 
+/// @DnDAction : YoYo Games.Drawing.Set_Alignment
+/// @DnDVersion : 1.1
+/// @DnDHash : 55A22E48
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 674CDCC7
