@@ -14,10 +14,36 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "914836b8-402d-471e-80f1-c03b601e9407",
+            "id": "55e8e921-2bce-4b51-b0a4-9502b4ac089a",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Layer_UI",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                
+            ]
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "914836b8-402d-471e-80f1-c03b601e9407",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -44,8 +70,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_C987F0C",
-                    "x": 0,
-                    "y": 0,
+                    "x": -160,
+                    "y": 64,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -66,7 +92,7 @@
             "id": "7651b5fe-66f2-483c-bdc3-e674e05459f0",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -123,8 +149,8 @@
         "id": "06127da2-d857-468a-b583-98027018486b",
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0",
-        "clearDisplayBuffer": true,
-        "clearViewBackground": false,
+        "clearDisplayBuffer": false,
+        "clearViewBackground": true,
         "enableViews": true,
         "inheritViewSettings": false
     },
