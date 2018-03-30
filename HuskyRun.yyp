@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3",
+            "Value": {
+                "id": "cff21b75-6071-40b7-9ecf-5d0f3157e579",
+                "resourcePath": "objects\\obj_medusa_powerup\\obj_medusa_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74f0a567-b21d-42f9-82a5-87635542d657",
             "Value": {
                 "id": "b64355a2-ab9f-4b77-8f84-eae4f7fd162b",
@@ -503,6 +511,14 @@
             }
         },
         {
+            "Key": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
+            "Value": {
+                "id": "ec82a91b-4604-497f-b652-a857f937b02a",
+                "resourcePath": "sprites\\spr_medusa_powerup\\spr_medusa_powerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e74b5ae-1adf-425b-a6cf-16a9f30a36f5",
             "Value": {
                 "id": "9f6475db-4ec6-4743-ace1-437c8aabb1da",
@@ -524,6 +540,14 @@
                 "id": "c4ddd088-a7d9-4733-8127-9d424df34cfd",
                 "resourcePath": "objects\\obj_scorescreen\\obj_scorescreen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9c9e2f63-b761-4a97-9b54-c965040b5cb1",
+            "Value": {
+                "id": "a586c934-c78c-41ff-805d-72656e8a94f1",
+                "resourcePath": "sprites\\spr_cloud_1\\spr_cloud_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -655,6 +679,14 @@
             }
         },
         {
+            "Key": "c0c94810-73f7-4a07-979f-6595f32dbec8",
+            "Value": {
+                "id": "b8c0215a-37d0-40ba-97a6-aff05a091a27",
+                "resourcePath": "sprites\\spr_rock\\spr_rock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0fa66b1-2831-4c22-89a2-923dc14725f3",
             "Value": {
                 "id": "1d3ed123-8fa9-467f-9e0b-07933d2a6daf",
@@ -732,6 +764,30 @@
                 "id": "5ddb3e1f-c342-4105-836a-3f2f2dbd2e87",
                 "resourcePath": "views\\ce1ae8c8-9aff-4a4f-9b03-adaefc536dd4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce5137af-0fd7-430c-b957-6fda298723c9",
+            "Value": {
+                "id": "08a0c9e6-c524-4248-a0f3-4094706c9781",
+                "resourcePath": "sounds\\snd_medusa_scream\\snd_medusa_scream.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d383a4cd-c7fa-4a20-8a0a-f635d211364e",
+            "Value": {
+                "id": "140bb607-da7e-46c4-b6e7-6a6e04c8c9a5",
+                "resourcePath": "objects\\obj_medusa\\obj_medusa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4a5a19c-555b-403d-9e8f-4a6ebee0ea80",
+            "Value": {
+                "id": "9fbe487a-3af8-4d66-a57b-a374d4dff29b",
+                "resourcePath": "shaders\\shader_bw\\shader_bw.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -860,6 +916,14 @@
                 "id": "d05e7b41-20a6-4b1a-a78f-d42a4f806aa6",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f629201f-6e69-4ec9-9b39-867f45591f41",
+            "Value": {
+                "id": "a1498bd7-f95d-40c0-831b-d9735c2c1d4e",
+                "resourcePath": "sprites\\spr_cloud_2\\spr_cloud_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
