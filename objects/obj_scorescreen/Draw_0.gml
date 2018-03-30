@@ -20,6 +20,6 @@ draw_set_valign(fa_middle);
 /// @DnDArgument : "y" "room_height/2"
 /// @DnDArgument : "xscale" "2"
 /// @DnDArgument : "yscale" "2"
-/// @DnDArgument : "caption" ""Score: ""
+/// @DnDArgument : "caption" ""
 /// @DnDArgument : "text" "global.dist_score"
-draw_text_transformed(room_width/2, room_height/2, string("Score: ") + string(global.dist_score), 2, 2, 0);
+draw_text_transformed(room_width/2, room_height/2, "" + string(global.dist_score), 2, 2, 0);

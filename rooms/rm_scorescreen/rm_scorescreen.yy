@@ -9,15 +9,66 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "240ff3fd-1a77-4dd4-8dc3-e221481aff4d"
+        "240ff3fd-1a77-4dd4-8dc3-e221481aff4d",
+        "d8b1a144-7a15-4dea-bde8-bc38100994e5",
+        "f0fef9f1-2139-42b9-8332-53606b9b1e4f"
     ],
     "layers": [
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "5f35a6ea-5f4a-4344-ad91-05f9dc208786",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Instances_1",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                {
+                    "id": "f0fef9f1-2139-42b9-8332-53606b9b1e4f",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": true,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_58C54995",
+                    "x": 160,
+                    "y": 32,
+                    "IsDnD": true,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_58C54995",
+                    "objId": "9ad929c3-f638-4e4b-b1b4-c35daa857568",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
+            ]
+        },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "1543529f-6991-41a1-abcf-e6161f07ca26",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -58,6 +109,30 @@
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
+                },
+                {
+                    "id": "d8b1a144-7a15-4dea-bde8-bc38100994e5",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_6FAC287B",
+                    "x": 160,
+                    "y": 96,
+                    "IsDnD": true,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_6FAC287B",
+                    "objId": "ff28011d-c3d2-47a5-80f9-a648d56a75ad",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             ]
         },
@@ -66,7 +141,7 @@
             "id": "b0afc846-2aa9-457c-a106-ef0a3dbc1aea",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -114,8 +189,8 @@
         "id": "f3ca1c98-dddb-45ad-b84e-4f446b5c179b",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 180,
-        "Width": 320,
+        "Height": 360,
+        "Width": 640,
         "inheritRoomSettings": false,
         "persistent": false
     },
