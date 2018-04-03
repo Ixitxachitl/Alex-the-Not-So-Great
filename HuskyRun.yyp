@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "65c8a11e-7818-4549-aa92-56c8239fb687",
+            "Value": {
+                "id": "c55dec94-5284-4414-98d1-828a380d0e60",
+                "resourcePath": "objects\\obj_medus_spawner\\obj_medus_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68263b48-37ce-408b-98b6-d1aeea56bd01",
             "Value": {
                 "id": "48400f8e-ea4e-4e51-b285-8228e50f488d",
