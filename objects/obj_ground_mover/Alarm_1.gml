@@ -40,8 +40,7 @@ alarm_set(1, next_gate - obj_Player.move_speed *40 + alarm_get(1));
 /// @DnDArgument : "var" "second_platform"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "0"
-var second_platform = floor(random_range(0, 0 + 1));
+var second_platform = floor(random_range(0, 1 + 1));
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
