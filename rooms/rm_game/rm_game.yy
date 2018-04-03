@@ -49,7 +49,7 @@
         "b72d04c4-68b1-4bfa-a981-fbaf8a94773e",
         "c91b113a-9576-48aa-a3ee-8bc8390ca11d",
         "204d02b9-9f6f-4149-89b7-cc5f4b55e88f",
-        "44797804-7ccd-4764-b8a0-dcc1b70011c9"
+        "d5026d7e-4e9a-4cfd-beac-93efb81b5220"
     ],
     "layers": [
         {
@@ -100,15 +100,15 @@
                     "scaleY": 1
                 },
                 {
-                    "id": "44797804-7ccd-4764-b8a0-dcc1b70011c9",
+                    "id": "d5026d7e-4e9a-4cfd-beac-93efb81b5220",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_2A71EA76",
-                    "x": 352,
+                    "name": "inst_26901431",
+                    "x": 384,
                     "y": 96,
                     "IsDnD": true,
                     "colour": {
@@ -117,8 +117,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_2A71EA76",
-                    "objId": "0412d025-f563-491f-882e-e48bb85bc480",
+                    "name_with_no_file_rename": "inst_26901431",
+                    "objId": "65c8a11e-7818-4549-aa92-56c8239fb687",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -273,36 +273,10 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "19205d24-2122-441f-b758-47ecde90dfdb",
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "depth": 300,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "layers": [
-                
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "name": "lyr_objs",
-            "userdefined_depth": false,
-            "visible": true,
-            "instances": [
-                
-            ]
-        },
-        {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "7af56b30-03dc-40b4-b8fc-d85273ac8452",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 400,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -328,7 +302,7 @@
             "id": "90856b58-638a-46b4-a3c4-a58ce06b5cb0",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 500,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -377,7 +351,7 @@
             "id": "e091c7ae-8fcd-4761-98f1-41946c39bf76",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 600,
+            "depth": 500,
             "grid_x": 4,
             "grid_y": 4,
             "hierarchyFrozen": false,
@@ -467,6 +441,32 @@
                     "scaleX": 1,
                     "scaleY": 1
                 }
+            ]
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "19205d24-2122-441f-b758-47ecde90dfdb",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 600,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "lyr_objs",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                
             ]
         },
         {
