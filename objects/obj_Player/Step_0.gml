@@ -12,17 +12,17 @@ if(phy_position_x < start_x )
 	/// @DnDParent : 4CC5D70A
 	/// @DnDArgument : "var" "phy_linear_velocity_x"
 	/// @DnDArgument : "op" "1"
-	/// @DnDArgument : "value" "5"
-	if(phy_linear_velocity_x < 5)
+	/// @DnDArgument : "value" "15"
+	if(phy_linear_velocity_x < 15)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 25BE83A5
 		/// @DnDParent : 5529FDC0
-		/// @DnDArgument : "expr" "1"
+		/// @DnDArgument : "expr" "5"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "phy_linear_velocity_x"
-		phy_linear_velocity_x += 1;
+		phy_linear_velocity_x += 5;
 	}
 }
 
@@ -46,10 +46,10 @@ if(phy_position_x > start_x)
 		/// @DnDVersion : 1
 		/// @DnDHash : 03D424D0
 		/// @DnDParent : 2F02ABB4
-		/// @DnDArgument : "expr" "-1"
+		/// @DnDArgument : "expr" "-5"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "phy_linear_velocity_x"
-		phy_linear_velocity_x += -1;
+		phy_linear_velocity_x += -5;
 	}
 }
 
