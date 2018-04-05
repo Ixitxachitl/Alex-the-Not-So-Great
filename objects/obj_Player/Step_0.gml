@@ -82,12 +82,13 @@ if (!(l5A22C483_0 > 0))
 		/// @DnDVersion : 1
 		/// @DnDHash : 149B05D5
 		/// @DnDParent : 7C7182E8
+		/// @DnDArgument : "x_relative" "1"
 		/// @DnDArgument : "y" "1"
 		/// @DnDArgument : "y_relative" "1"
 		/// @DnDArgument : "object" "obj_gate"
 		/// @DnDArgument : "not" "1"
 		/// @DnDSaveInfo : "object" "15d094bd-3171-4a88-97d9-88eb344b6205"
-		var l149B05D5_0 = instance_place(0, y + 1, obj_gate);
+		var l149B05D5_0 = instance_place(x + 0, y + 1, obj_gate);
 		if (!(l149B05D5_0 > 0))
 		{
 			/// @DnDAction : YoYo Games.Common.Variable

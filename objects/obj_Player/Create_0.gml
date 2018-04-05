@@ -15,9 +15,9 @@ move_speed = 1;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 15C69FC3
-/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "grounded"
-grounded = true;
+grounded = false;
 
 /// @DnDAction : YoYo Games.Common.Function_Call
 /// @DnDVersion : 1
