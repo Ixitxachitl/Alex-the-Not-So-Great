@@ -32,8 +32,8 @@ draw_self();
 /// @DnDArgument : "y" "room_height/2"
 /// @DnDArgument : "xscale" "4"
 /// @DnDArgument : "yscale" "4"
-/// @DnDArgument : "caption" ""Paused""
-draw_text_transformed(room_width/2, room_height/2, string("Paused") + "", 4, 4, 0);
+/// @DnDArgument : "caption" ""Pause""
+draw_text_transformed(room_width/2, room_height/2, string("Pause") + "", 4, 4, 0);
 
 /// @DnDAction : YoYo Games.Common.Function_Call
 /// @DnDVersion : 1
