@@ -5,7 +5,7 @@
     "name": "obj_volume",
     "eventList": [
         {
-            "id": "8001885b-bf45-4401-81a0-05ec2904e0d9",
+            "id": "d744c249-dbe4-431a-b799-935e2c568169",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
