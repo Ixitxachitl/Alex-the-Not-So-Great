@@ -12,17 +12,17 @@ if(phy_position_x < start_x )
 	/// @DnDParent : 4CC5D70A
 	/// @DnDArgument : "var" "phy_linear_velocity_x"
 	/// @DnDArgument : "op" "1"
-	/// @DnDArgument : "value" "5"
-	if(phy_linear_velocity_x < 5)
+	/// @DnDArgument : "value" "15"
+	if(phy_linear_velocity_x < 15)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 25BE83A5
 		/// @DnDParent : 5529FDC0
-		/// @DnDArgument : "expr" "1"
+		/// @DnDArgument : "expr" "5"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "phy_linear_velocity_x"
-		phy_linear_velocity_x += 1;
+		phy_linear_velocity_x += 5;
 	}
 }
 
@@ -46,10 +46,10 @@ if(phy_position_x > start_x)
 		/// @DnDVersion : 1
 		/// @DnDHash : 03D424D0
 		/// @DnDParent : 2F02ABB4
-		/// @DnDArgument : "expr" "-1"
+		/// @DnDArgument : "expr" "-5"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "phy_linear_velocity_x"
-		phy_linear_velocity_x += -1;
+		phy_linear_velocity_x += -5;
 	}
 }
 
@@ -82,12 +82,13 @@ if (!(l5A22C483_0 > 0))
 		/// @DnDVersion : 1
 		/// @DnDHash : 149B05D5
 		/// @DnDParent : 7C7182E8
+		/// @DnDArgument : "x_relative" "1"
 		/// @DnDArgument : "y" "1"
 		/// @DnDArgument : "y_relative" "1"
 		/// @DnDArgument : "object" "obj_gate"
 		/// @DnDArgument : "not" "1"
 		/// @DnDSaveInfo : "object" "15d094bd-3171-4a88-97d9-88eb344b6205"
-		var l149B05D5_0 = instance_place(0, y + 1, obj_gate);
+		var l149B05D5_0 = instance_place(x + 0, y + 1, obj_gate);
 		if (!(l149B05D5_0 > 0))
 		{
 			/// @DnDAction : YoYo Games.Common.Variable
