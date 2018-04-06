@@ -450,7 +450,7 @@
             "Key": "7a5cc67a-442c-4bcb-83f1-3c559723e2f6",
             "Value": {
                 "id": "bfab99e7-358c-4cdb-861e-ae5e2f4c8975",
-                "resourcePath": "fonts\\font2\\font2.yy",
+                "resourcePath": "fonts\\fnt_copgothiclt\\fnt_copgothiclt.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -548,6 +548,14 @@
                 "id": "c4ddd088-a7d9-4733-8127-9d424df34cfd",
                 "resourcePath": "objects\\obj_scorescreen\\obj_scorescreen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9bbe3c14-e4b2-43d5-b8f9-008dbddacdd9",
+            "Value": {
+                "id": "98cc63e9-dc85-4e6e-88db-450368417f17",
+                "resourcePath": "sprites\\spr_SNGLogo\\spr_SNGLogo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
