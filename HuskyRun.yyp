@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1ae6c8c4-37fa-4016-864e-162c313f72bd",
+            "Value": {
+                "id": "9bbbf8ac-aedc-4694-9b1e-f01f33554b9f",
+                "resourcePath": "sounds\\snd_powerupmusic\\snd_powerupmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1ccc18cc-9543-498a-a505-4763b2eb64d7",
             "Value": {
                 "id": "75367fd0-fa0c-4b36-b430-e45f6fae244d",
