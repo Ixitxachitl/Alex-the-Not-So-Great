@@ -1,13 +1,15 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
-/// @DnDHash : 3C5C1182
-/// @DnDArgument : "expr" "60"
+/// @DnDHash : 45670D7B
 /// @DnDArgument : "var" "spawn"
-spawn = 60;
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "min" "100"
+/// @DnDArgument : "max" "200"
+spawn = floor(random_range(100, 200 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2ECE20DE
-/// @DnDArgument : "steps" "60"
+/// @DnDArgument : "steps" "spawn"
 /// @DnDArgument : "alarm" "5"
-alarm_set(5, 60);
+alarm_set(5, spawn);

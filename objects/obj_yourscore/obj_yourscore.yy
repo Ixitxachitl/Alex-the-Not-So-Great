@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_yourscore",
     "eventList": [
-        {
-            "id": "0fd3e145-1557-413b-be69-906bede3a545",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "ff28011d-c3d2-47a5-80f9-a648d56a75ad"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
