@@ -17,10 +17,10 @@ if(obj_Player.move_speed < 3)
 	/// @DnDVersion : 1
 	/// @DnDHash : 578B594D
 	/// @DnDParent : 643BD3DF
-	/// @DnDArgument : "expr" "-.25"
+	/// @DnDArgument : "expr" "-.33"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "x"
-	x += -.25;
+	x += -.33;
 }
 
 /// @DnDAction : YoYo Games.Common.Else

@@ -24,8 +24,8 @@ if(x  + sprite_width  <= 0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 1886E7B6
 		/// @DnDParent : 1C7889CE
-		/// @DnDArgument : "expr" "next.x + next.sprite_width"
+		/// @DnDArgument : "expr" "next.x + next.sprite_width-.42"
 		/// @DnDArgument : "var" "x"
-		x = next.x + next.sprite_width;
+		x = next.x + next.sprite_width-.42;
 	}
 }
