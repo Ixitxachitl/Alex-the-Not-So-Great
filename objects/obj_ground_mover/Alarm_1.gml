@@ -21,31 +21,31 @@ hill1.phy_position_y += -8;
 /// @DnDVersion : 1
 /// @DnDHash : 5E4F0CE3
 /// @DnDArgument : "xpos" "hill1.phy_position_x + 32"
-/// @DnDArgument : "ypos" "hill1.phy_position_y-12"
+/// @DnDArgument : "ypos" "hill1.phy_position_y-22"
 /// @DnDArgument : "objectid" "obj_ball"
 /// @DnDArgument : "layer" ""lyr_objs""
 /// @DnDSaveInfo : "objectid" "22cc8c5c-a614-483d-be62-65f1f424857c"
-instance_create_layer(hill1.phy_position_x + 32, hill1.phy_position_y-12, "lyr_objs", obj_ball);
+instance_create_layer(hill1.phy_position_x + 32, hill1.phy_position_y-22, "lyr_objs", obj_ball);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 6220C22B
 /// @DnDArgument : "xpos" "hill1.phy_position_x-32"
-/// @DnDArgument : "ypos" "hill1.phy_position_y -12"
+/// @DnDArgument : "ypos" "hill1.phy_position_y -22"
 /// @DnDArgument : "objectid" "obj_ball"
 /// @DnDArgument : "layer" ""lyr_objs""
 /// @DnDSaveInfo : "objectid" "22cc8c5c-a614-483d-be62-65f1f424857c"
-instance_create_layer(hill1.phy_position_x-32, hill1.phy_position_y -12, "lyr_objs", obj_ball);
+instance_create_layer(hill1.phy_position_x-32, hill1.phy_position_y -22, "lyr_objs", obj_ball);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 3D385181
 /// @DnDArgument : "xpos" "hill1.phy_position_x + 0"
-/// @DnDArgument : "ypos" "hill1.phy_position_y-12"
+/// @DnDArgument : "ypos" "hill1.phy_position_y-22"
 /// @DnDArgument : "objectid" "obj_ball"
 /// @DnDArgument : "layer" ""lyr_objs""
 /// @DnDSaveInfo : "objectid" "22cc8c5c-a614-483d-be62-65f1f424857c"
-instance_create_layer(hill1.phy_position_x + 0, hill1.phy_position_y-12, "lyr_objs", obj_ball);
+instance_create_layer(hill1.phy_position_x + 0, hill1.phy_position_y-22, "lyr_objs", obj_ball);
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
