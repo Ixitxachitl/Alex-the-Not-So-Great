@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "23b8fce3-27fc-4f82-a3ed-73c3bed2c555",
+            "Value": {
+                "id": "c3d1bc84-864d-4c5d-b073-ad8d542fdc78",
+                "resourcePath": "sprites\\spr_tutorial3\\spr_tutorial3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "246a585d-c6c1-47a2-8c61-a9daf649bb86",
             "Value": {
                 "id": "a6e70b82-ca75-4db2-8437-19f4177a201b",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "5fb0caf6-7f12-4543-9ea5-c3169b3f7c55",
+            "Value": {
+                "id": "be45a029-a6f4-446b-b3b5-b07288439c85",
+                "resourcePath": "sprites\\spr_tutorial1\\spr_tutorial1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6007a753-f75b-425d-9e4a-e4a85577f64f",
             "Value": {
                 "id": "74d05fba-50c2-4a1d-b9d2-9674b66bdf56",
@@ -452,6 +468,14 @@
                 "id": "012dd14f-73a3-4818-a957-ee2601221932",
                 "resourcePath": "sprites\\spr_pressEnter\\spr_pressEnter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "70dae046-cf8a-40ad-b4e7-14beef2bda04",
+            "Value": {
+                "id": "3bc3ad68-d169-407f-9be5-3e82abcb2934",
+                "resourcePath": "objects\\obj_tutorial2\\obj_tutorial2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -583,6 +607,14 @@
             }
         },
         {
+            "Key": "8c2e1dd2-7769-4960-846a-e42892050549",
+            "Value": {
+                "id": "30f05578-0a32-40ea-936d-4dad38377bde",
+                "resourcePath": "objects\\obj_tutorial4\\obj_tutorial4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
             "Value": {
                 "id": "ec82a91b-4604-497f-b652-a857f937b02a",
@@ -671,6 +703,14 @@
             }
         },
         {
+            "Key": "a1a8bf86-85de-4a37-ab68-a9a13ea9d0bf",
+            "Value": {
+                "id": "f5ee8585-170c-4e13-8c0d-6ae43e146436",
+                "resourcePath": "objects\\obj_tutorial3\\obj_tutorial3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a2a672bd-2d61-4d73-bfae-4be384dbdaad",
             "Value": {
                 "id": "c9f88c66-6ee1-4115-a431-2b70f9091e15",
@@ -708,6 +748,14 @@
                 "id": "1dfb6ab3-56e7-4d59-a7c9-3d7cf47cafe4",
                 "resourcePath": "objects\\obj_bg_buildings\\obj_bg_buildings.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a702023c-1660-4a41-8aac-06f77ff9a0aa",
+            "Value": {
+                "id": "44b724f5-e7aa-4bd6-b849-40aa85758f3b",
+                "resourcePath": "sprites\\spr_tutorial2\\spr_tutorial2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -983,6 +1031,14 @@
             }
         },
         {
+            "Key": "e09c17f2-e25e-4d89-b875-2b164be982fd",
+            "Value": {
+                "id": "9baabdaa-6993-44ee-80c1-2d328e7f82fd",
+                "resourcePath": "sprites\\spr_tutorial4\\spr_tutorial4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e0c26296-c324-4b60-8e13-633d38f61d16",
             "Value": {
                 "id": "5e8037e5-4bb9-4788-b76e-c2e4f5a5a7d2",
@@ -1036,6 +1092,14 @@
                 "id": "181b505b-5454-4b99-a532-e37d9aae2010",
                 "resourcePath": "views\\e67119b6-08ba-44bf-877b-5b549941e7e2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ecf9c6ad-e511-44fb-848e-f1303199eb13",
+            "Value": {
+                "id": "9f54c607-a625-4d8c-85b3-19d122c412ba",
+                "resourcePath": "objects\\obj_tutorial\\obj_tutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
