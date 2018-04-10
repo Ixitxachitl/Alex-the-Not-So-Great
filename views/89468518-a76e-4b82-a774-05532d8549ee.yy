@@ -13,7 +13,7 @@
         "778538a4-becf-4249-8fcb-f8d8acd31676"
     ],
     "filterType": "GMSprite",
-    "folderName": "Obsticles\/Ground",
+    "folderName": "Obstacles\/Ground",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

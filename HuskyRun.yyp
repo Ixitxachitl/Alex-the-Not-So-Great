@@ -895,6 +895,14 @@
             }
         },
         {
+            "Key": "cea23ac5-7e09-404d-9c20-afdd71eb1b1a",
+            "Value": {
+                "id": "5b883d42-2d65-47ca-b18d-1f9c1cc75603",
+                "resourcePath": "fonts\\fnt_copgothicbold\\fnt_copgothicbold.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d1099ba2-864e-4c6c-8f5e-da488eb97fde",
             "Value": {
                 "id": "5bb283b5-9fee-4c66-ac45-6c7ac73d4118",
