@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 4E7EE133
-/// @DnDArgument : "font" "fnt_copgothiclt"
-/// @DnDSaveInfo : "font" "7a5cc67a-442c-4bcb-83f1-3c559723e2f6"
-draw_set_font(fnt_copgothiclt);
+/// @DnDArgument : "font" "fnt_copgothicbold"
+/// @DnDSaveInfo : "font" "cea23ac5-7e09-404d-9c20-afdd71eb1b1a"
+draw_set_font(fnt_copgothicbold);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
