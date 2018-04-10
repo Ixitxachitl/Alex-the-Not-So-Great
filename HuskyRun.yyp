@@ -639,14 +639,6 @@
             }
         },
         {
-            "Key": "975af8aa-9611-47e6-bc3f-1c29b226a4ae",
-            "Value": {
-                "id": "5a042b9e-1991-466c-a56d-a0fa788da3c1",
-                "resourcePath": "objects\\obj_spikeball\\obj_spikeball.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "9ad929c3-f638-4e4b-b1b4-c35daa857568",
             "Value": {
                 "id": "c4ddd088-a7d9-4733-8127-9d424df34cfd",
@@ -943,6 +935,14 @@
             }
         },
         {
+            "Key": "cea23ac5-7e09-404d-9c20-afdd71eb1b1a",
+            "Value": {
+                "id": "5b883d42-2d65-47ca-b18d-1f9c1cc75603",
+                "resourcePath": "fonts\\fnt_copgothicbold\\fnt_copgothicbold.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d1099ba2-864e-4c6c-8f5e-da488eb97fde",
             "Value": {
                 "id": "5bb283b5-9fee-4c66-ac45-6c7ac73d4118",
@@ -979,14 +979,6 @@
             "Value": {
                 "id": "c398fdaa-f94f-444a-adab-8fce7eaf4f68",
                 "resourcePath": "sprites\\spr_3headeddog_doublejump\\spr_3headeddog_doublejump.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "daee4af0-eba6-4dcb-a8de-ffa1681518d3",
-            "Value": {
-                "id": "7f6bfa89-3e6a-4e27-812b-d13d2c688b30",
-                "resourcePath": "sprites\\spr_spikeball\\spr_spikeball.yy",
                 "resourceType": "GMSprite"
             }
         },

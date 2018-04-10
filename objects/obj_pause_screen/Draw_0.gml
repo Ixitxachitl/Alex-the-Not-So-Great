@@ -8,9 +8,9 @@ shader_set(shader_bw);
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 1A2A8167
-/// @DnDArgument : "font" "fnt_pixel"
-/// @DnDSaveInfo : "font" "2bd760f7-8aad-41e3-8b49-953ab84450c5"
-draw_set_font(fnt_pixel);
+/// @DnDArgument : "font" "fnt_copgothiclt"
+/// @DnDSaveInfo : "font" "7a5cc67a-442c-4bcb-83f1-3c559723e2f6"
+draw_set_font(fnt_copgothiclt);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
