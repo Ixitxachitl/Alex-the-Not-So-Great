@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "135e6d39-710e-4dd4-b7e2-5a9b213cefc3",
+            "Value": {
+                "id": "8e25534c-be5d-4fec-badf-491cc23b1ff9",
+                "resourcePath": "objects\\obj_3headeddogscorescreen\\obj_3headeddogscorescreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "143be0c6-81f6-4266-a0d2-a4cccb2b544a",
             "Value": {
                 "id": "718580c0-b5de-42b1-ad5c-08fc682838a3",
