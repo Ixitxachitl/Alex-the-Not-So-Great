@@ -655,14 +655,6 @@
             }
         },
         {
-            "Key": "930e5b69-2d98-442d-b2d5-7c11fea202a5",
-            "Value": {
-                "id": "8204bca1-407b-4deb-b3ac-8b8eac5aa389",
-                "resourcePath": "sprites\\spr_3headdog_run_alt\\spr_3headdog_run_alt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "93f1bfd0-b45e-4178-957e-14774a2f7465",
             "Value": {
                 "id": "463556d6-6d67-47e1-b0c4-9ce2d060ac12",
