@@ -54,12 +54,12 @@ if(cooldown)
 			/// @DnDVersion : 1
 			/// @DnDHash : 4C981534
 			/// @DnDParent : 7676C7E3
-			/// @DnDArgument : "xpos" "600"
+			/// @DnDArgument : "xpos" "500"
 			/// @DnDArgument : "ypos" "24"
 			/// @DnDArgument : "objectid" "obj_medusa_powerup"
 			/// @DnDArgument : "layer" ""lyr_objs""
 			/// @DnDSaveInfo : "objectid" "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
-			instance_create_layer(600, 24, "lyr_objs", obj_medusa_powerup);
+			instance_create_layer(500, 24, "lyr_objs", obj_medusa_powerup);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
