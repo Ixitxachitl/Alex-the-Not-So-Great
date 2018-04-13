@@ -12,7 +12,8 @@
         "2d6ce7a9-0af3-4202-9d5c-43c16a3e391d",
         "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
         "c0c94810-73f7-4a07-979f-6595f32dbec8",
-        "93f1bfd0-b45e-4178-957e-14774a2f7465"
+        "93f1bfd0-b45e-4178-957e-14774a2f7465",
+        "ce3471bc-a0b9-45fb-bdff-478e03fc4767"
     ],
     "filterType": "GMSprite",
     "folderName": "Powerups",
