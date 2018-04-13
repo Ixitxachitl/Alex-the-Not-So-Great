@@ -2,7 +2,7 @@
     "id": "715eddd5-779f-4fa5-a0f5-dc9228e2b362",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj",
+    "name": "obj_spike",
     "eventList": [
         
     ],

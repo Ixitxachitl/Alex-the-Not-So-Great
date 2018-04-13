@@ -498,7 +498,7 @@
             "Key": "715eddd5-779f-4fa5-a0f5-dc9228e2b362",
             "Value": {
                 "id": "4d15f08d-9014-49cf-a90c-8ffd34d98803",
-                "resourcePath": "objects\\obj\\obj.yy",
+                "resourcePath": "objects\\obj_spike\\obj_spike.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -834,7 +834,7 @@
             "Key": "b357d3ce-cf37-450a-8680-d933a54f35d9",
             "Value": {
                 "id": "f9297316-32e2-4e28-a127-f5e97eca82f7",
-                "resourcePath": "sprites\\spr_spikeball\\spr_spikeball.yy",
+                "resourcePath": "sprites\\spr_spike\\spr_spike.yy",
                 "resourceType": "GMSprite"
             }
         },

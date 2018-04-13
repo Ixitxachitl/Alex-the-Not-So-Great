@@ -2,7 +2,7 @@
     "id": "b357d3ce-cf37-450a-8680-d933a54f35d9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_spikeball",
+    "name": "spr_spike",
     "For3D": false,
     "HTile": false,
     "VTile": false,
