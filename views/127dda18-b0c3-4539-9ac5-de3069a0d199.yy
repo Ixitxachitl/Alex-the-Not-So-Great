@@ -23,7 +23,9 @@
         "5fb0caf6-7f12-4543-9ea5-c3169b3f7c55",
         "a702023c-1660-4a41-8aac-06f77ff9a0aa",
         "23b8fce3-27fc-4f82-a3ed-73c3bed2c555",
-        "e09c17f2-e25e-4d89-b875-2b164be982fd"
+        "e09c17f2-e25e-4d89-b875-2b164be982fd",
+        "435b0c94-9f9a-4628-af7c-348bfd184817",
+        "c76ffbab-e8f0-4242-b202-99f9b1481558"
     ],
     "filterType": "GMSprite",
     "folderName": "UI\/Splash",
