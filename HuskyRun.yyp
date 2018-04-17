@@ -1263,14 +1263,6 @@
             }
         },
         {
-            "Key": "ff7bc6c4-87a4-49a3-b101-1c86d591db51",
-            "Value": {
-                "id": "b343a494-d15b-4a11-b20b-51eb9c622ef9",
-                "resourcePath": "objects\\obj_creditssprite\\obj_creditssprite.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ff9a8740-1ae7-4675-8521-8e0662c608e0",
             "Value": {
                 "id": "48c89df9-f166-4884-86ec-04bcfb0eef3b",
