@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 3C343D3A
+/// @DnDArgument : "value" "false"
+/// @DnDArgument : "var" "restarting"
+global.restarting = false;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 601AD8A2

@@ -35,6 +35,20 @@ if(!(global.RoomBeforePause == -1))
 	/// @DnDHash : 1BC21722
 	/// @DnDParent : 76178EDB
 	audio_resume_all();
+
+	/// @DnDAction : YoYo Games.Common.If_Expression
+	/// @DnDVersion : 1
+	/// @DnDHash : 10D546DB
+	/// @DnDParent : 76178EDB
+	/// @DnDArgument : "expr" "global.restarting"
+	if(global.restarting)
+	{
+		/// @DnDAction : YoYo Games.Rooms.Restart_Room
+		/// @DnDVersion : 1
+		/// @DnDHash : 1096B4B7
+		/// @DnDParent : 10D546DB
+		room_restart();
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
