@@ -10,7 +10,7 @@ if(image_alpha < 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 582954E9
 	/// @DnDParent : 7449692F
-	/// @DnDArgument : "alpha" "0.02"
+	/// @DnDArgument : "alpha" "0.2"
 	/// @DnDArgument : "alpha_relative" "1"
-	image_alpha += 0.02;
+	image_alpha += 0.2;
 }
