@@ -2,7 +2,7 @@
     "id": "1a9a04ba-f643-459f-94c5-c0be29246f62",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite49",
+    "name": "spr_AlexTitleSprite",
     "For3D": false,
     "HTile": false,
     "VTile": false,

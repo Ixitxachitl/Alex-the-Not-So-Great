@@ -22,7 +22,7 @@
     "option_windows_product_info": "Made in GameMaker Studio 2",
     "option_windows_resize_window": false,
     "option_windows_save_location": 0,
-    "option_windows_scale": 0,
+    "option_windows_scale": 1,
     "option_windows_sleep_margin": 10,
     "option_windows_splash_screen": "${options_dir}\\windows\\splash\\splash.png",
     "option_windows_start_fullscreen": true,
@@ -34,5 +34,5 @@
         "minor": 0,
         "revision": 0
     },
-    "option_windows_vsync": true
+    "option_windows_vsync": false
 }
