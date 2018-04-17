@@ -7,7 +7,7 @@ image_alpha = 0;
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
 /// @DnDHash : 50369B50
-/// @DnDArgument : "x" "room_width-1040"
+/// @DnDArgument : "x" "room_width-1020"
 /// @DnDArgument : "y" "room_height"
-x = room_width-1040;
+x = room_width-1020;
 y = room_height;
