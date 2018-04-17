@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Common.If_Expression
+/// @DnDVersion : 1
+/// @DnDHash : 5F520FFB
+/// @DnDArgument : "expr" "global.tutorial_over"
+if(global.tutorial_over)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0376D50F
+	/// @DnDParent : 5F520FFB
+	instance_destroy();
+}
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 08D8F8A7

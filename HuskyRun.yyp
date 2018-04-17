@@ -519,14 +519,6 @@
             }
         },
         {
-            "Key": "70dae046-cf8a-40ad-b4e7-14beef2bda04",
-            "Value": {
-                "id": "3bc3ad68-d169-407f-9be5-3e82abcb2934",
-                "resourcePath": "objects\\obj_tutorial2\\obj_tutorial2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "715eddd5-779f-4fa5-a0f5-dc9228e2b362",
             "Value": {
                 "id": "4d15f08d-9014-49cf-a90c-8ffd34d98803",
@@ -663,14 +655,6 @@
             }
         },
         {
-            "Key": "8c2e1dd2-7769-4960-846a-e42892050549",
-            "Value": {
-                "id": "30f05578-0a32-40ea-936d-4dad38377bde",
-                "resourcePath": "objects\\obj_tutorial4\\obj_tutorial4.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
             "Value": {
                 "id": "ec82a91b-4604-497f-b652-a857f937b02a",
@@ -748,14 +732,6 @@
                 "id": "da7a9a14-73b3-452f-8f37-f5f489b1489a",
                 "resourcePath": "sprites\\spr_wheat_small\\spr_wheat_small.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a1a8bf86-85de-4a37-ab68-a9a13ea9d0bf",
-            "Value": {
-                "id": "f5ee8585-170c-4e13-8c0d-6ae43e146436",
-                "resourcePath": "objects\\obj_tutorial3\\obj_tutorial3.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1215,6 +1191,14 @@
             }
         },
         {
+            "Key": "f0f8a954-1f38-4609-8477-3ee987be6016",
+            "Value": {
+                "id": "840548a7-9146-4949-b71e-6eadfd4b9d35",
+                "resourcePath": "objects\\obj_setup\\obj_setup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f233e3f0-ef0f-4410-9ac7-8c6737e034ec",
             "Value": {
                 "id": "cf73604f-7936-4216-95db-1d2fc2a38ee6",
@@ -1275,14 +1259,6 @@
             "Value": {
                 "id": "dd7f229d-39cb-4f80-829f-cae002575e50",
                 "resourcePath": "objects\\obj_yourscore\\obj_yourscore.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ff7bc6c4-87a4-49a3-b101-1c86d591db51",
-            "Value": {
-                "id": "b343a494-d15b-4a11-b20b-51eb9c622ef9",
-                "resourcePath": "objects\\obj_creditssprite\\obj_creditssprite.yy",
                 "resourceType": "GMObject"
             }
         },
