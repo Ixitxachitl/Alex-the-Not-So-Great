@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 65A18B2E
+/// @DnDArgument : "value" "undefined"
+/// @DnDArgument : "var" "tutorial_over"
+global.tutorial_over = undefined;
+
 /// @DnDAction : YoYo Games.Instances.Sprite_Image_Alpha
 /// @DnDVersion : 1
 /// @DnDHash : 5E939D91
