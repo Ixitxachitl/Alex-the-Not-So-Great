@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "f50662f0-278e-4d42-8f6f-d85591f620ad",
+            "id": "1fc8799f-fe48-41c9-94c8-f9b283790e75",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "4da2e258-8b00-4f83-9526-d4fa725dd164",
             "compositeImage": {
-                "id": "6e742353-ef1f-401d-a1cb-48e97fcf1bed",
+                "id": "7c735e4f-d4fd-4195-8db2-0980ab346562",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "f50662f0-278e-4d42-8f6f-d85591f620ad",
+                "FrameId": "1fc8799f-fe48-41c9-94c8-f9b283790e75",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "d74b21c0-a7d0-42ce-b3f3-e396ef17a57f",
+                    "id": "ef1b5936-dd06-405f-bba2-139f9e632ab8",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "f50662f0-278e-4d42-8f6f-d85591f620ad",
-                    "LayerId": "11386803-13eb-46d1-ba2d-27d26ecc9fab"
+                    "FrameId": "1fc8799f-fe48-41c9-94c8-f9b283790e75",
+                    "LayerId": "1a2c7f56-29d6-473e-8160-b4e99e939c58"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 640,
     "layers": [
         {
-            "id": "11386803-13eb-46d1-ba2d-27d26ecc9fab",
+            "id": "1a2c7f56-29d6-473e-8160-b4e99e939c58",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "4da2e258-8b00-4f83-9526-d4fa725dd164",
@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 9,
+    "origin": 4,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 1203,
-    "xorig": 1288,
-    "yorig": 359
+    "xorig": 601,
+    "yorig": 320
 }

@@ -79,11 +79,27 @@
             }
         },
         {
+            "Key": "12cfba6e-9219-4684-90ad-eadf2127e18e",
+            "Value": {
+                "id": "a3fed85a-c081-467c-967d-6b40d926c3fd",
+                "resourcePath": "objects\\obj_restart\\obj_restart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12dea0b7-325f-4cbb-b1b0-5d4ec8f8e264",
             "Value": {
                 "id": "9fb266c7-9949-4e7d-a5ae-f4d334986432",
                 "resourcePath": "views\\12dea0b7-325f-4cbb-b1b0-5d4ec8f8e264.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "135e6d39-710e-4dd4-b7e2-5a9b213cefc3",
+            "Value": {
+                "id": "8e25534c-be5d-4fec-badf-491cc23b1ff9",
+                "resourcePath": "objects\\obj_3headeddogscorescreen\\obj_3headeddogscorescreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "38f29394-bdce-4469-b3a8-98d92025ef97",
+            "Value": {
+                "id": "8e4252f1-01a8-43a9-88c4-4b6a029d95ec",
+                "resourcePath": "objects\\obj_mainmeun\\obj_mainmeun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a109159-989e-4749-89ea-925199493851",
             "Value": {
                 "id": "310f038d-9583-44e7-894f-0f235026b8fa",
@@ -292,6 +316,14 @@
                 "id": "940eaa23-5797-4f8d-9408-c12620eef234",
                 "resourcePath": "rooms\\rm_pause\\rm_pause.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "435b0c94-9f9a-4628-af7c-348bfd184817",
+            "Value": {
+                "id": "4f56a05e-21f7-4385-a05a-08c7746b65bf",
+                "resourcePath": "sprites\\spr_mainmenu\\spr_mainmenu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -907,6 +939,14 @@
             "Value": {
                 "id": "7e30d171-7beb-400a-9699-950fe202d9c6",
                 "resourcePath": "sprites\\spr_creditstext\\spr_creditstext.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c76ffbab-e8f0-4242-b202-99f9b1481558",
+            "Value": {
+                "id": "2d6dbe88-fb4a-488b-9104-f0a3ee3174e4",
+                "resourcePath": "sprites\\spr_restart\\spr_restart.yy",
                 "resourceType": "GMSprite"
             }
         },
