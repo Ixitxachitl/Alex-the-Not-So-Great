@@ -1023,6 +1023,14 @@
             }
         },
         {
+            "Key": "d1480562-7a92-4ddf-958a-f7dbd829ba87",
+            "Value": {
+                "id": "0945f0d6-821f-4f8e-996b-920f79e610de",
+                "resourcePath": "sprites\\spr_3headeddog_jumpInvin\\spr_3headeddog_jumpInvin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d383a4cd-c7fa-4a20-8a0a-f635d211364e",
             "Value": {
                 "id": "140bb607-da7e-46c4-b6e7-6a6e04c8c9a5",
@@ -1124,6 +1132,14 @@
                 "id": "d91fefe3-7884-4b17-aeeb-e2eaf68ee02a",
                 "resourcePath": "objects\\obj_pause_screen\\obj_pause_screen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e2c47e79-2bfa-420e-84af-017cbd19e691",
+            "Value": {
+                "id": "e17ffec2-a196-464b-8cb9-d7b1e3a2dedb",
+                "resourcePath": "sprites\\spr_3headeddog_doublejumpInvin\\spr_3headeddog_doublejumpInvin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
