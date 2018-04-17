@@ -149,9 +149,9 @@ while ((ground_check == false)) {
 /// @DnDVersion : 1
 /// @DnDHash : 5B0523DB
 /// @DnDArgument : "x" "obj_Player.phy_position_x"
-/// @DnDArgument : "y" "ground_check_level + 1"
+/// @DnDArgument : "y" "ground_check_level + 4"
 x = obj_Player.phy_position_x;
-y = ground_check_level + 1;
+y = ground_check_level + 4;
 
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1
