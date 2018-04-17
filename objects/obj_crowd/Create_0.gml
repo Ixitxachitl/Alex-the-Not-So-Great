@@ -8,9 +8,9 @@ start_x = x;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1623FEB1
-/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "offscreen"
-offscreen = false;
+offscreen = true;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

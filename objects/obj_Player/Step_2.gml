@@ -131,9 +131,9 @@ if(!(grounded))
 				/// @DnDVersion : 1
 				/// @DnDHash : 3FDBD2BD
 				/// @DnDParent : 1534DCB4
-				/// @DnDArgument : "expr" "-10000"
+				/// @DnDArgument : "expr" "-20000"
 				/// @DnDArgument : "var" "phy_linear_velocity_y"
-				phy_linear_velocity_y = -10000;
+				phy_linear_velocity_y = -20000;
 			}
 		
 			/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Down
@@ -165,9 +165,9 @@ if(!(grounded))
 				/// @DnDVersion : 1
 				/// @DnDHash : 01C11B2D
 				/// @DnDParent : 746755BB
-				/// @DnDArgument : "expr" "-10000"
+				/// @DnDArgument : "expr" "-20000"
 				/// @DnDArgument : "var" "phy_linear_velocity_y"
-				phy_linear_velocity_y = -10000;
+				phy_linear_velocity_y = -20000;
 			}
 		}
 	}

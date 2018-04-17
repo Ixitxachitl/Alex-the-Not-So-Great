@@ -12,10 +12,10 @@ var hill1 = instance_create_layer(camera_get_view_width(view_get_camera(0))+64, 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1994BC7F
-/// @DnDArgument : "expr" "-8"
+/// @DnDArgument : "expr" "-6"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "hill1.phy_position_y"
-hill1.phy_position_y += -8;
+hill1.phy_position_y += -6;
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
