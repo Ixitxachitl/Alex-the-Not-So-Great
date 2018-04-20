@@ -41,8 +41,8 @@ if(offscreen)
 			/// @DnDVersion : 1
 			/// @DnDHash : 1297530D
 			/// @DnDParent : 292E30DF
-			/// @DnDArgument : "steps" "300"
-			alarm_set(0, 300);
+			/// @DnDArgument : "steps" "800"
+			alarm_set(0, 800);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
