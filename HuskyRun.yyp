@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "2ecf2244-6eea-4b6b-a548-2ef14408d450",
+            "Value": {
+                "id": "f8ba4b15-c80b-47ec-af65-76d5eea3c590",
+                "resourcePath": "sprites\\spr_exitgame\\spr_exitgame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3287e7da-791e-4586-b566-ab4ebcebf19e",
             "Value": {
                 "id": "410d83fe-416e-4bce-8258-64d7611a6f37",
@@ -369,7 +377,7 @@
         {
             "Key": "49b073bc-4cdf-46ce-a91a-2d07d3e144c1",
             "Value": {
-                "id": "ca2bc49b-9da4-4abb-95d6-8524ccdee89e",
+                "id": "42e59016-1764-4a36-8057-80f7c8bd9b17",
                 "resourcePath": "objects\\obj_Player\\obj_Player.yy",
                 "resourceType": "GMObject"
             }
@@ -444,14 +452,6 @@
                 "id": "bc2a8e6c-2668-4736-8b95-b861a2bfc3b5",
                 "resourcePath": "sprites\\spr_soul_large\\spr_soul_large.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5f540a7a-c997-4f1d-8b9b-59fe3509f5d0",
-            "Value": {
-                "id": "c6f0fee2-950b-4020-b47f-5396bbf6122d",
-                "resourcePath": "objects\\obj_bone\\obj_bone.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "6a5f6256-097f-4d81-aab1-9417b22ac1cb",
+            "Value": {
+                "id": "4fe9fd8c-0d7a-4c81-9d12-b05d582af09d",
+                "resourcePath": "objects\\obj_invincibilityspaner\\obj_invincibilityspaner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6b68cdb2-60c3-4fe2-8ea2-58b41f85bfed",
             "Value": {
                 "id": "9a2f0315-b966-49fb-a5a7-218103d13993",
@@ -596,6 +604,14 @@
                 "id": "d82b102c-a8ea-433b-8b09-56abc6b6ba2d",
                 "resourcePath": "sounds\\snd_step\\snd_step.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "775fb5fe-b068-4869-a88e-52751ee47b93",
+            "Value": {
+                "id": "2ead1ec7-2fcc-4950-a857-f80daef70a20",
+                "resourcePath": "objects\\obj_no\\obj_no.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1081,7 +1097,7 @@
         {
             "Key": "d1480562-7a92-4ddf-958a-f7dbd829ba87",
             "Value": {
-                "id": "0945f0d6-821f-4f8e-996b-920f79e610de",
+                "id": "86b7313a-f5cc-4185-a729-068ea5aa35b0",
                 "resourcePath": "sprites\\spr_3headeddog_jumpInvin\\spr_3headeddog_jumpInvin.yy",
                 "resourceType": "GMSprite"
             }
@@ -1201,7 +1217,7 @@
         {
             "Key": "e2c47e79-2bfa-420e-84af-017cbd19e691",
             "Value": {
-                "id": "e17ffec2-a196-464b-8cb9-d7b1e3a2dedb",
+                "id": "7c3583ca-9af9-42f3-b33d-ebc46a851a09",
                 "resourcePath": "sprites\\spr_3headeddog_doublejumpInvin\\spr_3headeddog_doublejumpInvin.yy",
                 "resourceType": "GMSprite"
             }
@@ -1295,6 +1311,14 @@
             }
         },
         {
+            "Key": "f4045e79-443c-4676-b043-4c69aad2720f",
+            "Value": {
+                "id": "b6a5b5ca-790e-458c-894a-62e818425ca8",
+                "resourcePath": "objects\\obj_invincibility\\obj_invincibility.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "d05e7b41-20a6-4b1a-a78f-d42a4f806aa6",
@@ -1340,6 +1364,14 @@
                 "id": "6bbb7ce0-cffa-45b4-835a-c29597173004",
                 "resourcePath": "rooms\\rm_exitgame\\rm_exitgame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fce3c882-8782-44b1-9754-44633b7bb900",
+            "Value": {
+                "id": "a42d82dd-ada6-4515-be28-fa4be8272389",
+                "resourcePath": "objects\\obj_yes\\obj_yes.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 32589380
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "is_invincibile"
+is_invincibile = false;
+
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 3C343D3A
