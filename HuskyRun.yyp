@@ -359,14 +359,6 @@
             }
         },
         {
-            "Key": "46265102-76d2-4537-8cd9-e4b613aaa11e",
-            "Value": {
-                "id": "e47ab08c-3bca-48bc-add9-a86d04120a7a",
-                "resourcePath": "sprites\\spr_ballexplosion\\spr_ballexplosion.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "49b073bc-4cdf-46ce-a91a-2d07d3e144c1",
             "Value": {
                 "id": "ca2bc49b-9da4-4abb-95d6-8524ccdee89e",
