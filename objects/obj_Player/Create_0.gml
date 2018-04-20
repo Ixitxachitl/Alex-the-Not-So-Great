@@ -55,46 +55,34 @@ camera_width = camera_get_view_width(camera_def);
 /// @DnDArgument : "var" "dist_score"
 global.dist_score = 0;
 
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 31CA6775
+/// @DnDArgument : "soundid" "snd_music_1"
+/// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
+audio_stop_sound(snd_music_1);
+
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 21FE010D
+/// @DnDArgument : "soundid" "snd_powerupmusic"
+/// @DnDSaveInfo : "soundid" "1ae6c8c4-37fa-4016-864e-162c313f72bd"
+audio_stop_sound(snd_powerupmusic);
+
 /// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
 /// @DnDVersion : 1
 /// @DnDHash : 63B74576
 /// @DnDArgument : "sound" "snd_music_1"
+/// @DnDArgument : "pitch" "1.5"
 /// @DnDSaveInfo : "sound" "9e8797d1-a3e4-4734-8402-2be94a000607"
-audio_sound_pitch(snd_music_1, 1);
+audio_sound_pitch(snd_music_1, 1.5);
 
-/// @DnDAction : YoYo Games.Audio.If_Audio_Playing
+/// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 405E614E
+/// @DnDHash : 3ED24CC4
 /// @DnDArgument : "soundid" "snd_music_1"
-/// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
-var l405E614E_0 = snd_music_1;
-if (!audio_is_playing(l405E614E_0))
-{
-	/// @DnDAction : YoYo Games.Audio.Play_Audio
-	/// @DnDVersion : 1
-	/// @DnDHash : 3DC301AB
-	/// @DnDParent : 405E614E
-	/// @DnDArgument : "soundid" "snd_music_1"
-	/// @DnDArgument : "loop" "1"
-	/// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
-	audio_play_sound(snd_music_1, 0, 1);
-}
-
-/// @DnDAction : YoYo Games.Common.Else
-/// @DnDVersion : 1
-/// @DnDHash : 38D0604D
-else
-{
-	/// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
-	/// @DnDVersion : 1
-	/// @DnDHash : 0100C071
-	/// @DnDParent : 38D0604D
-	/// @DnDArgument : "sound" "snd_music_1"
-	/// @DnDArgument : "pitch" "1.5"
-	/// @DnDSaveInfo : "sound" "9e8797d1-a3e4-4734-8402-2be94a000607"
-	audio_sound_pitch(snd_music_1, 1.5);
-}
+audio_play_sound(snd_music_1, 0, 0);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
