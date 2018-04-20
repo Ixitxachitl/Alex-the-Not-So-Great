@@ -105,8 +105,9 @@ if(global.dist_score >= 100)
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 06553F69
+/// @DnDDisabled : 1
 /// @DnDArgument : "speed" "(move_speed)/10+1"
-image_speed = (move_speed)/10+1;
+
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1

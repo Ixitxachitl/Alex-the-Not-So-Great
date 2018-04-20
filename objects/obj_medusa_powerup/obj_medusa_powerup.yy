@@ -5,16 +5,6 @@
     "name": "obj_medusa_powerup",
     "eventList": [
         {
-            "id": "9f705787-2e93-4f2a-9c23-eef5e5bac320",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "49b073bc-4cdf-46ce-a91a-2d07d3e144c1",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
-        },
-        {
             "id": "84903621-965b-4681-a645-efa61249f058",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -32,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
+        },
+        {
+            "id": "373a5e6d-b436-4ec1-87bf-2be3f2685640",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "49b073bc-4cdf-46ce-a91a-2d07d3e144c1",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
         }
     ],

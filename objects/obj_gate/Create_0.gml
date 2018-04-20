@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 4CECD7CC
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "Exploding"
+Exploding = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 065E1B2C
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "on_ground"
