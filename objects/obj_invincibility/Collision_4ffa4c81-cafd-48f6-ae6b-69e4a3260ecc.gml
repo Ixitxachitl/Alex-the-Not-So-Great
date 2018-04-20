@@ -37,6 +37,31 @@ sprite_index = spr_3headdog_Invincibility;
 image_index = 0;
 }
 
+/// @DnDAction : YoYo Games.Audio.If_Audio_Playing
+/// @DnDVersion : 1
+/// @DnDHash : 4122B18D
+/// @DnDArgument : "soundid" "snd_music_1"
+/// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
+var l4122B18D_0 = snd_music_1;
+if (audio_is_playing(l4122B18D_0))
+{
+	/// @DnDAction : YoYo Games.Audio.Stop_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 1E2CB7C2
+	/// @DnDParent : 4122B18D
+	/// @DnDArgument : "soundid" "snd_music_1"
+	/// @DnDSaveInfo : "soundid" "9e8797d1-a3e4-4734-8402-2be94a000607"
+	audio_stop_sound(snd_music_1);
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 7F8737E2
+	/// @DnDParent : 4122B18D
+	/// @DnDArgument : "soundid" "snd_powerupmusic"
+	/// @DnDSaveInfo : "soundid" "1ae6c8c4-37fa-4016-864e-162c313f72bd"
+	audio_play_sound(snd_powerupmusic, 0, 0);
+}
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4DA2F933
