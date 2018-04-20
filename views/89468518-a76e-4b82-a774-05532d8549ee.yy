@@ -10,7 +10,8 @@
         "2a1738c8-6030-4b56-88b1-b4ad1a8259cb",
         "7c747797-470b-4279-891e-0e9e08cbc9fc",
         "778538a4-becf-4249-8fcb-f8d8acd31676",
-        "b357d3ce-cf37-450a-8680-d933a54f35d9"
+        "b357d3ce-cf37-450a-8680-d933a54f35d9",
+        "351ba629-8611-4fd0-a00d-534923ec3c0c"
     ],
     "filterType": "GMSprite",
     "folderName": "Obstacles\/Ground",

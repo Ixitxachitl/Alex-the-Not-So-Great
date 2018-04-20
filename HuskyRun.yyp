@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "351ba629-8611-4fd0-a00d-534923ec3c0c",
+            "Value": {
+                "id": "c3b7ed1b-039e-4615-8adc-3579199b55bc",
+                "resourcePath": "sprites\\spr_spikesexplosion\\spr_spikesexplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3677b723-17d3-42d5-a511-f7d38aefee7f",
             "Value": {
                 "id": "271447c8-02af-4e7c-b24e-3f8520c91430",
@@ -332,6 +340,14 @@
                 "id": "5440bf21-c7e0-4b09-9868-a066faaa4e38",
                 "resourcePath": "objects\\obj_ball_spawner\\obj_ball_spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "46265102-76d2-4537-8cd9-e4b613aaa11e",
+            "Value": {
+                "id": "e47ab08c-3bca-48bc-add9-a86d04120a7a",
+                "resourcePath": "sprites\\spr_ballexplosion\\spr_ballexplosion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
