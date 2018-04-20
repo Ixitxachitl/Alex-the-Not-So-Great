@@ -1,38 +1,38 @@
 {
-    "id": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3",
+    "id": "f4045e79-443c-4676-b043-4c69aad2720f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_medusa_powerup",
+    "name": "obj_invincibility",
     "eventList": [
         {
-            "id": "84903621-965b-4681-a645-efa61249f058",
+            "id": "36ff18e0-c4d2-43d1-bf81-9f087e69e28b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
+            "m_owner": "f4045e79-443c-4676-b043-4c69aad2720f"
         },
         {
-            "id": "17b07b41-d19a-44c1-ad48-d548823aaf77",
+            "id": "f09f3cbd-397b-471e-a466-78b6a0f6b9e2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
+            "m_owner": "f4045e79-443c-4676-b043-4c69aad2720f"
         },
         {
-            "id": "373a5e6d-b436-4ec1-87bf-2be3f2685640",
+            "id": "4ffa4c81-cafd-48f6-ae6b-69e4a3260ecc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "49b073bc-4cdf-46ce-a91a-2d07d3e144c1",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "72f3d8d7-e988-4339-a2ed-4be8fe70a6f3"
+            "m_owner": "f4045e79-443c-4676-b043-4c69aad2720f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,37 +51,37 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "237f6689-ba31-46da-a01d-762a9ce12376",
+            "id": "4991a803-879a-4a3d-abce-b93dc9478e22",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "7cff88f6-9d7a-4519-ad50-a02f7b7eba55",
+            "id": "ad5139a9-2957-4bcb-9466-b4f5d303e870",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
+            "x": 32,
             "y": 0
         },
         {
-            "id": "010d050a-504a-44a1-9fc2-25a0496d7941",
+            "id": "495b5cef-6b14-43fe-a452-fe7db7a1b52c",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
-            "y": 64
+            "x": 32,
+            "y": 32
         },
         {
-            "id": "8ac3ea04-91be-43ba-8c69-107760cb4d97",
+            "id": "50ccdcea-2258-4bfa-b6c2-a63444e7e756",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
-            "y": 64
+            "y": 32
         }
     ],
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8de0f4dd-da9d-41c5-b03a-8be67ba02f52",
+    "spriteId": "ce3471bc-a0b9-45fb-bdff-478e03fc4767",
     "visible": true
 }
