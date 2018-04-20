@@ -24,3 +24,10 @@ alarm_set(0, 60);
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "delayed"
 delayed = false;
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0FE6A456
+/// @DnDArgument : "soundid" "snd_woof"
+/// @DnDSaveInfo : "soundid" "55235619-9139-4135-8451-bd0b17cca305"
+audio_play_sound(snd_woof, 0, 0);
