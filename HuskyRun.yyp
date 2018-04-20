@@ -1015,6 +1015,14 @@
             }
         },
         {
+            "Key": "ce5f3447-cca8-442b-9787-f40ae9134a2e",
+            "Value": {
+                "id": "a61fef5f-dc93-4660-afc3-91966f938f0a",
+                "resourcePath": "sprites\\spr_exitgame\\spr_exitgame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cea23ac5-7e09-404d-9c20-afdd71eb1b1a",
             "Value": {
                 "id": "5b883d42-2d65-47ca-b18d-1f9c1cc75603",
