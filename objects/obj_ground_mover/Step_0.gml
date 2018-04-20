@@ -6,14 +6,6 @@
 /// @DnDArgument : "var" "tiles"
 var tiles_count = ds_list_size(tiles);
 
-/// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
-/// @DnDVersion : 1
-/// @DnDHash : 57565C44
-/// @DnDArgument : "sound" "snd_music_1"
-/// @DnDArgument : "pitch" ".75+round(obj_Player.move_speed)/100"
-/// @DnDSaveInfo : "sound" "9e8797d1-a3e4-4734-8402-2be94a000607"
-audio_sound_pitch(snd_music_1, .75+round(obj_Player.move_speed)/100);
-
 /// @DnDAction : YoYo Games.Loops.For_Loop
 /// @DnDVersion : 1
 /// @DnDHash : 0B417D33

@@ -246,3 +246,20 @@ if(phy_position_x + 1 < phy_position_xprevious)
 		has_double_jumped = false;
 	}
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 019239F5
+/// @DnDArgument : "var" "phy_position_x"
+/// @DnDArgument : "op" "1"
+/// @DnDArgument : "value" "-5"
+if(phy_position_x < -5)
+{
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 584E6BF4
+	/// @DnDParent : 019239F5
+	/// @DnDArgument : "room" "rm_dead"
+	/// @DnDSaveInfo : "room" "b2d0ac02-f6f5-48ed-a00f-139f69c1e4f2"
+	room_goto(rm_dead);
+}
