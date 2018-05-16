@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "abcc3229-7102-43fe-9740-5d9820743bb3",
+            "Value": {
+                "id": "a54c536d-40ba-4579-8eac-b6f4346ce10a",
+                "resourcePath": "rooms\\rm_story\\rm_story.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "acbed063-98a3-45ce-8b8d-30c241347a11",
             "Value": {
                 "id": "10345932-dbae-4f1e-b106-165d3e652ebf",
@@ -1300,6 +1308,14 @@
                 "id": "cf73604f-7936-4216-95db-1d2fc2a38ee6",
                 "resourcePath": "objects\\obj_AlexTitleSprite\\obj_AlexTitleSprite.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f32c70ff-e1c9-4aec-be7c-2798c71dc484",
+            "Value": {
+                "id": "acaa6ce9-73d1-4c99-a599-b0c26637f603",
+                "resourcePath": "sprites\\spr_3headdog_run_boots\\spr_3headdog_run_boots.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
